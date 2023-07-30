@@ -1,0 +1,9 @@
+# Python Virutal Environment
+.venv/
+3.10_venv/
+
+# Hidden files
+.DS_Store
+
+# Irrelavent Files
+get-pip.py

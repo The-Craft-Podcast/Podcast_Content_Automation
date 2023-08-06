@@ -9,5 +9,5 @@
 get-pip.py
 
 # Transcripts that do not need to be uploaded
-output_William.txt
+# output_William.txt
 transcription_temp.json

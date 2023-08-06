@@ -1,0 +1,5970 @@
+Segment 1:
+Start time: 3.29
+End time: 7.36
+Speaker: SPEAKER_01
+Transcript:  All right, let's kick it off.
+
+Segment 2:
+Start time: 7.48
+End time: 16.14
+Speaker: SPEAKER_01
+Transcript:  Well, hey everybody, welcome to the craft podcast where we interview experts in all
+
+Segment 3:
+Start time: 17.02
+End time: 21.34
+Speaker: SPEAKER_01
+Transcript:  kinds of different fields to learn about their disciplines, how they strive towards mastery.
+
+Segment 4:
+Start time: 22.88
+End time: 27.10
+Speaker: SPEAKER_01
+Transcript:  And Michael and I, we love talking to people who are passionate enough to master something.
+
+Segment 5:
+Start time: 27.82
+End time: 31.92
+Speaker: SPEAKER_01
+Transcript:  And we've each been asking curious questions of these craftspeople our whole lives.
+
+Segment 6:
+Start time: 32.84
+End time: 34.61
+Speaker: SPEAKER_01
+Transcript:  And we want to share those conversations with others.
+
+Segment 7:
+Start time: 35.98
+End time: 38.14
+Speaker: SPEAKER_01
+Transcript:  So you will love all these interviews.
+
+Segment 8:
+Start time: 38.66
+End time: 45.06
+Speaker: SPEAKER_01
+Transcript:  Please be sure to click the subscribe button to follow our channel if you like our interviews.
+
+Segment 9:
+Start time: 46.82
+End time: 57.54
+Speaker: SPEAKER_01
+Transcript:  And today we have a really special guest, William Entrecann, somebody who I know pretty
+
+Segment 10:
+Start time: 58.10
+End time: 63.28
+Speaker: SPEAKER_01
+Transcript:  well and yeah, let's get right into it, Michael.
+
+Segment 11:
+Start time: 64.85
+End time: 65.15
+Speaker: SPEAKER_00
+Transcript:  All right.
+
+Segment 12:
+Start time: 66.26
+End time: 68.12
+Speaker: SPEAKER_00
+Transcript:  Today we're joined by William Entrecann.
+
+Segment 13:
+Start time: 68.74
+End time: 70.13
+Speaker: SPEAKER_00
+Transcript:  William is a total polymath.
+
+Segment 14:
+Start time: 71.14
+End time: 72.02
+Speaker: SPEAKER_00
+Transcript:  And where do we start?
+
+Segment 15:
+Start time: 72.14
+End time: 72.24
+Speaker: SPEAKER_00
+Transcript:  Right?
+
+Segment 16:
+Start time: 73.14
+End time: 79.66
+Speaker: SPEAKER_00
+Transcript:  He's a technologist, live streamer, app developer, runs a healthcare training business, does
+
+Segment 17:
+Start time: 79.74
+End time: 84.90
+Speaker: SPEAKER_00
+Transcript:  board door photography, and also authored a science fiction novel and learned Mandarin
+
+Segment 18:
+Start time: 84.96
+End time: 86.57
+Speaker: SPEAKER_00
+Transcript:  Chinese fluently from scratch.
+
+Segment 19:
+Start time: 87.46
+End time: 92.53
+Speaker: SPEAKER_00
+Transcript:  And he's best known in the world of blockchain as the lead author of ERC721, which is the
+
+Segment 20:
+Start time: 94.36
+End time: 98.98
+Speaker: SPEAKER_00
+Transcript:  groundbreaking standard that laid the foundation for the FT we know today.
+
+Segment 21:
+Start time: 99.86
+End time: 105.90
+Speaker: SPEAKER_00
+Transcript:  And his work has transformed the landscape of digital ownership and asset tokenization.
+
+Segment 22:
+Start time: 106.88
+End time: 111.58
+Speaker: SPEAKER_00
+Transcript:  And always eager to engage with the blockchain community, William regularly answers queries
+
+Segment 23:
+Start time: 111.68
+End time: 114.76
+Speaker: SPEAKER_00
+Transcript:  during the FT and Web3 community service hour.
+
+Segment 24:
+Start time: 115.06
+End time: 119.80
+Speaker: SPEAKER_00
+Transcript:  He and Dan host on every Tuesday at 6pm New York time.
+
+Segment 25:
+Start time: 120.10
+End time: 124.52
+Speaker: SPEAKER_00
+Transcript:  And we will share that link under our description so you can check it out and be part of it.
+
+Segment 26:
+Start time: 125.32
+End time: 129.20
+Speaker: SPEAKER_00
+Transcript:  And also he contributes actively to various question platforms.
+
+Segment 27:
+Start time: 129.80
+End time: 135.00
+Speaker: SPEAKER_00
+Transcript:  So today we're looking forward to delving into his journey and discussing the evolution
+
+Segment 28:
+Start time: 135.06
+End time: 140.64
+Speaker: SPEAKER_00
+Transcript:  of the future of NFTs and also extracting some insights from his vast experience in
+
+Segment 29:
+Start time: 140.72
+End time: 141.13
+Speaker: SPEAKER_00
+Transcript:  this field.
+
+Segment 30:
+Start time: 141.96
+End time: 143.52
+Speaker: SPEAKER_00
+Transcript:  And we're honored to have William on the show.
+
+Segment 31:
+Start time: 143.90
+End time: 145.79
+Speaker: SPEAKER_00
+Transcript:  And William, welcome to the craft podcast.
+
+Segment 32:
+Start time: 146.68
+End time: 147.52
+Speaker: SPEAKER_02
+Transcript:  Thank you.
+
+Segment 33:
+Start time: 147.68
+End time: 149.78
+Speaker: SPEAKER_02
+Transcript:  Good to be here.
+
+Segment 34:
+Start time: 149.80
+End time: 151.93
+Speaker: SPEAKER_01
+Transcript:  So first question, the origin story.
+
+Segment 35:
+Start time: 153.88
+End time: 161.12
+Speaker: SPEAKER_01
+Transcript:  What signs were there that young William would grow up to be such a Renaissance person?
+
+Segment 36:
+Start time: 162.52
+End time: 163.21
+Speaker: SPEAKER_02
+Transcript:  Origin of the origin.
+
+Segment 37:
+Start time: 163.87
+End time: 164.86
+Speaker: SPEAKER_01
+Transcript:  The origin of the origin.
+
+Segment 38:
+Start time: 165.35
+End time: 165.53
+Speaker: SPEAKER_02
+Transcript:  Yeah.
+
+Segment 39:
+Start time: 166.24
+End time: 167.24
+Speaker: SPEAKER_02
+Transcript:  So I'll give you two stories.
+
+Segment 40:
+Start time: 167.32
+End time: 168.39
+Speaker: SPEAKER_02
+Transcript:  So the one was my neighbor.
+
+Segment 41:
+Start time: 170.06
+End time: 171.96
+Speaker: SPEAKER_02
+Transcript:  I learned to speak late in life.
+
+Segment 42:
+Start time: 172.20
+End time: 174.97
+Speaker: SPEAKER_02
+Transcript:  Like I was about four until I started really talking.
+
+Segment 43:
+Start time: 177.44
+End time: 181.26
+Speaker: SPEAKER_02
+Transcript:  And before then it was just words or in clips and phrases.
+
+Segment 44:
+Start time: 181.36
+End time: 183.23
+Speaker: SPEAKER_02
+Transcript:  But that's when I really started going at it.
+
+Segment 45:
+Start time: 183.96
+End time: 187.26
+Speaker: SPEAKER_02
+Transcript:  And it wasn't very far after that until I started doing BASIC.
+
+Segment 46:
+Start time: 188.06
+End time: 192.54
+Speaker: SPEAKER_02
+Transcript:  So my neighbor had this, I guess I should hunt down.
+
+Segment 47:
+Start time: 192.76
+End time: 194.12
+Speaker: SPEAKER_01
+Transcript:  BASIC, the programming language.
+
+Segment 48:
+Start time: 194.58
+End time: 194.73
+Speaker: SPEAKER_02
+Transcript:  Yeah.
+
+Segment 49:
+Start time: 195.36
+End time: 196.36
+Speaker: SPEAKER_02
+Transcript:  And it's a computer.
+
+Segment 50:
+Start time: 196.36
+End time: 201.90
+Speaker: SPEAKER_02
+Transcript:  I mean, you have to call it a computer, but it runs off of a cassette tape.
+
+Segment 51:
+Start time: 201.94
+End time: 203.84
+Speaker: SPEAKER_02
+Transcript:  And there were, I think there were two cassette tapes in there.
+
+Segment 52:
+Start time: 203.96
+End time: 207.68
+Speaker: SPEAKER_02
+Transcript:  Like you would pop in a cassette tape, you would turn it on and it would run BASIC.
+
+Segment 53:
+Start time: 207.88
+End time: 208.39
+Speaker: SPEAKER_02
+Transcript:  That's all it would do.
+
+Segment 54:
+Start time: 209.10
+End time: 214.10
+Speaker: SPEAKER_02
+Transcript:  And for history, I should really get one of these, but I guess my English to BASIC, like
+
+Segment 55:
+Start time: 214.26
+End time: 215.81
+Speaker: SPEAKER_02
+Transcript:  the English started late, the BASIC started early.
+
+Segment 56:
+Start time: 216.34
+End time: 223.20
+Speaker: SPEAKER_02
+Transcript:  So that was, you know, that was one sign is that I was here to learn, to study, to program,
+
+Segment 57:
+Start time: 223.52
+End time: 223.78
+Speaker: SPEAKER_02
+Transcript:  to work with.
+
+Segment 58:
+Start time: 228.06
+End time: 231.00
+Speaker: SPEAKER_02
+Transcript:  Well, anyway, the second story, I'm not, I'll just do the facts.
+
+Segment 59:
+Start time: 231.52
+End time: 232.32
+Speaker: SPEAKER_02
+Transcript:  You write the interpretation.
+
+Segment 60:
+Start time: 232.58
+End time: 233.48
+Speaker: SPEAKER_02
+Transcript:  The second story is about my dad.
+
+Segment 61:
+Start time: 233.86
+End time: 239.20
+Speaker: SPEAKER_02
+Transcript:  A few years later, I was in my room and my dad had an office next to my room.
+
+Segment 62:
+Start time: 240.32
+End time: 243.74
+Speaker: SPEAKER_02
+Transcript:  And this is Bill from people that also are on the podcast.
+
+Segment 63:
+Start time: 244.08
+End time: 244.75
+Speaker: SPEAKER_02
+Transcript:  Yo dude.
+
+Segment 64:
+Start time: 245.10
+End time: 245.26
+Speaker: SPEAKER_02
+Transcript:  Yo dude.
+
+Segment 65:
+Start time: 246.18
+End time: 246.59
+Speaker: SPEAKER_01
+Transcript:  Yo dude 38.
+
+Segment 66:
+Start time: 247.28
+End time: 248.55
+Speaker: SPEAKER_02
+Transcript:  And my room's here.
+
+Segment 67:
+Start time: 249.12
+End time: 251.43
+Speaker: SPEAKER_02
+Transcript:  And I was, I don't know, seven, eight, something like that.
+
+Segment 68:
+Start time: 252.36
+End time: 256.64
+Speaker: SPEAKER_02
+Transcript:  And I decided, I made the decision for the family that I was going to have a phone in
+
+Segment 69:
+Start time: 256.72
+End time: 260.60
+Speaker: SPEAKER_02
+Transcript:  my room because, you know, I wanted to call my friends whenever I wanted.
+
+Segment 70:
+Start time: 260.62
+End time: 261.69
+Speaker: SPEAKER_02
+Transcript:  I wouldn't have to go to the kitchen.
+
+Segment 71:
+Start time: 262.28
+End time: 266.28
+Speaker: SPEAKER_02
+Transcript:  And so I went downstairs and I got the drill and I figured, okay, well, if I could just
+
+Segment 72:
+Start time: 266.36
+End time: 270.96
+Speaker: SPEAKER_02
+Transcript:  drill a hole through the wall at the baseboard, then I can fish a wire through, I can split
+
+Segment 73:
+Start time: 271.06
+End time: 272.80
+Speaker: SPEAKER_02
+Transcript:  the wire somehow, and I can get a phone in my room.
+
+Segment 74:
+Start time: 273.08
+End time: 273.57
+Speaker: SPEAKER_02
+Transcript:  That was the goal.
+
+Segment 75:
+Start time: 274.44
+End time: 275.32
+Speaker: SPEAKER_02
+Transcript:  So I'm in my room.
+
+Segment 76:
+Start time: 275.52
+End time: 276.13
+Speaker: SPEAKER_02
+Transcript:  How old were you?
+
+Segment 77:
+Start time: 276.44
+End time: 278.10
+Speaker: SPEAKER_02
+Transcript:  Eight, seven, eight, something like that.
+
+Segment 78:
+Start time: 278.64
+End time: 283.30
+Speaker: SPEAKER_02
+Transcript:  And so I, so I go down, I get the drill and I start drilling and my dad comes in and he
+
+Segment 79:
+Start time: 283.36
+End time: 285.00
+Speaker: SPEAKER_02
+Transcript:  walks in the room and he sees what's going on.
+
+Segment 80:
+Start time: 285.12
+End time: 287.70
+Speaker: SPEAKER_02
+Transcript:  He sees me drilling a hole through the wall.
+
+Segment 81:
+Start time: 288.44
+End time: 289.84
+Speaker: SPEAKER_02
+Transcript:  I got the phone cord laid out.
+
+Segment 82:
+Start time: 289.90
+End time: 291.72
+Speaker: SPEAKER_02
+Transcript:  I got the phone there, like red handed.
+
+Segment 83:
+Start time: 292.80
+End time: 293.80
+Speaker: SPEAKER_02
+Transcript:  I didn't know why I thought I was going to go with this.
+
+Segment 84:
+Start time: 294.18
+End time: 296.80
+Speaker: SPEAKER_02
+Transcript:  And he walks in there and he says, Will, what are you doing?
+
+Segment 85:
+Start time: 297.88
+End time: 301.04
+Speaker: SPEAKER_02
+Transcript:  Take that back downstairs right now and get a bigger bit.
+
+Segment 86:
+Start time: 301.12
+End time: 302.35
+Speaker: SPEAKER_02
+Transcript:  You're not going to drill anything with that bit.
+
+Segment 87:
+Start time: 303.89
+End time: 304.49
+Speaker: SPEAKER_02
+Transcript:  Circular bit.
+
+Segment 88:
+Start time: 305.30
+End time: 305.81
+Speaker: SPEAKER_02
+Transcript:  That's a pin bit.
+
+Segment 89:
+Start time: 306.28
+End time: 309.56
+Speaker: SPEAKER_02
+Transcript:  You're not going to do anything with that.
+
+Segment 90:
+Start time: 309.56
+End time: 312.88
+Speaker: SPEAKER_02
+Transcript:  And of course I had a bit that was like this big, like trying to go through the, I got
+
+Segment 91:
+Start time: 313.00
+End time: 313.45
+Speaker: SPEAKER_00
+Transcript:  to change it.
+
+Segment 92:
+Start time: 313.98
+End time: 315.66
+Speaker: SPEAKER_02
+Transcript:  And yeah, on the money.
+
+Segment 93:
+Start time: 315.84
+End time: 319.86
+Speaker: SPEAKER_02
+Transcript:  So I went downstairs, got the right bit, drew the hole and then split my wire and I got
+
+Segment 94:
+Start time: 320.32
+End time: 320.85
+Speaker: SPEAKER_02
+Transcript:  my phone.
+
+Segment 95:
+Start time: 321.44
+End time: 326.26
+Speaker: SPEAKER_02
+Transcript:  So support from the beginning, you know, breaking the boundaries, understanding, you know, that
+
+Segment 96:
+Start time: 326.84
+End time: 330.05
+Speaker: SPEAKER_02
+Transcript:  you can do a lot of things in this world if you just do it and then you just start drilling.
+
+Segment 97:
+Start time: 331.66
+End time: 331.76
+Speaker: Unknown
+Transcript:  Yeah.
+
+Segment 98:
+Start time: 332.90
+End time: 333.29
+Speaker: SPEAKER_01
+Transcript:  Wow.
+
+Segment 99:
+Start time: 333.90
+End time: 334.64
+Speaker: SPEAKER_01
+Transcript:  That's amazing.
+
+Segment 100:
+Start time: 334.74
+End time: 335.04
+Speaker: SPEAKER_01
+Transcript:  That was great.
+
+Segment 101:
+Start time: 338.24
+End time: 339.27
+Speaker: SPEAKER_01
+Transcript:  And so then you got the phone?
+
+Segment 102:
+Start time: 339.84
+End time: 340.43
+Speaker: SPEAKER_02
+Transcript:  I got the phone.
+
+Segment 103:
+Start time: 340.80
+End time: 341.47
+Speaker: SPEAKER_02
+Transcript:  I got the phone.
+
+Segment 104:
+Start time: 342.34
+End time: 347.20
+Speaker: SPEAKER_02
+Transcript:  And then the phone was the whole thing, you know, because you know, back in the day, you
+
+Segment 105:
+Start time: 347.24
+End time: 349.47
+Speaker: SPEAKER_02
+Transcript:  used to do a lot more fun things with phones than you can do now.
+
+Segment 106:
+Start time: 350.76
+End time: 352.23
+Speaker: SPEAKER_02
+Transcript:  But yeah, that was, that was the beginning.
+
+Segment 107:
+Start time: 353.74
+End time: 353.99
+Speaker: SPEAKER_02
+Transcript:  Wow.
+
+Segment 108:
+Start time: 355.38
+End time: 361.26
+Speaker: SPEAKER_01
+Transcript:  What do you think was it that that drew you to do that kind of tinkering?
+
+Segment 109:
+Start time: 363.79
+End time: 368.46
+Speaker: SPEAKER_02
+Transcript:  Um, well, my parents were split and when I was, I don't know, seven, six or seven.
+
+Segment 110:
+Start time: 368.76
+End time: 372.90
+Speaker: SPEAKER_02
+Transcript:  So I always had a lot of different perspectives, like going back and forth and we split 50
+
+Segment 111:
+Start time: 373.24
+End time: 374.24
+Speaker: SPEAKER_02
+Transcript:  50.
+
+Segment 112:
+Start time: 374.26
+End time: 375.61
+Speaker: SPEAKER_02
+Transcript:  So two weeks here, two weeks there, my whole life.
+
+Segment 113:
+Start time: 377.04
+End time: 382.18
+Speaker: SPEAKER_02
+Transcript:  And that really gave me the perspective of like listening to one person and then not
+
+Segment 114:
+Start time: 382.96
+End time: 384.32
+Speaker: SPEAKER_02
+Transcript:  listening to that person for a while.
+
+Segment 115:
+Start time: 385.08
+End time: 386.27
+Speaker: SPEAKER_02
+Transcript:  I got that really early in life.
+
+Segment 116:
+Start time: 386.88
+End time: 388.42
+Speaker: SPEAKER_02
+Transcript:  But as an adult, you really pick up on that.
+
+Segment 117:
+Start time: 388.60
+End time: 392.84
+Speaker: SPEAKER_02
+Transcript:  It's like as a, you know, there's the child learning phase and there's adult learning
+
+Segment 118:
+Start time: 392.86
+End time: 393.04
+Speaker: SPEAKER_02
+Transcript:  phase.
+
+Segment 119:
+Start time: 393.84
+End time: 396.26
+Speaker: SPEAKER_02
+Transcript:  And as a child, you're supposed to like listen to your parents all the time until you realize
+
+Segment 120:
+Start time: 396.36
+End time: 397.17
+Speaker: SPEAKER_02
+Transcript:  that you know more than them.
+
+Segment 121:
+Start time: 397.72
+End time: 399.06
+Speaker: SPEAKER_02
+Transcript:  And then you become an adult.
+
+Segment 122:
+Start time: 399.22
+End time: 400.01
+Speaker: SPEAKER_02
+Transcript:  That's whenever that happens.
+
+Segment 123:
+Start time: 401.04
+End time: 406.56
+Speaker: SPEAKER_02
+Transcript:  But as a child, I learned that there's a lot of perspective because I didn't have, and
+
+Segment 124:
+Start time: 407.08
+End time: 410.00
+Speaker: SPEAKER_02
+Transcript:  also I didn't have this thing like some kids who have parents that are split, they, you
+
+Segment 125:
+Start time: 410.02
+End time: 412.60
+Speaker: SPEAKER_02
+Transcript:  know, they're, they're with the one parent most of the time, except for the token amount
+
+Segment 126:
+Start time: 412.64
+End time: 413.60
+Speaker: SPEAKER_02
+Transcript:  and the other time I didn't have that.
+
+Segment 127:
+Start time: 413.74
+End time: 414.35
+Speaker: SPEAKER_02
+Transcript:  I was 50 50 the whole way.
+
+Segment 128:
+Start time: 415.88
+End time: 422.56
+Speaker: SPEAKER_02
+Transcript:  And really just flipping and flopping on these perspectives really gave me a lot to start
+
+Segment 129:
+Start time: 422.58
+End time: 423.09
+Speaker: SPEAKER_02
+Transcript:  with in life.
+
+Segment 130:
+Start time: 424.14
+End time: 427.68
+Speaker: SPEAKER_02
+Transcript:  So I always came in, I wasn't on the punk scene, but I was definitely, and I wasn't
+
+Segment 131:
+Start time: 427.68
+End time: 432.26
+Speaker: SPEAKER_02
+Transcript:  on the anarchist scene, but I definitely had the cookbook and I definitely had all the
+
+Segment 132:
+Start time: 432.38
+End time: 435.08
+Speaker: SPEAKER_02
+Transcript:  things that, you know, these two, I went to the, I was on these scenes, right?
+
+Segment 133:
+Start time: 435.78
+End time: 441.42
+Speaker: SPEAKER_02
+Transcript:  I'm not admitting to anything that anarchists do, but I'm definitely from a lot of perspectives
+
+Segment 134:
+Start time: 442.50
+End time: 445.80
+Speaker: SPEAKER_02
+Transcript:  from childhood, something that people don't usually get into adulthood.
+
+Segment 135:
+Start time: 446.38
+End time: 451.80
+Speaker: SPEAKER_02
+Transcript:  And so from there, I learned that you can really question what people are telling you
+
+Segment 136:
+Start time: 452.06
+End time: 454.28
+Speaker: SPEAKER_02
+Transcript:  and you really have to make for yourself.
+
+Segment 137:
+Start time: 454.36
+End time: 455.27
+Speaker: SPEAKER_02
+Transcript:  You make the ideas in your head.
+
+Segment 138:
+Start time: 455.56
+End time: 459.44
+Speaker: SPEAKER_02
+Transcript:  So the ideas, the influences come from the outside, but the ideas come from within.
+
+Segment 139:
+Start time: 460.22
+End time: 463.70
+Speaker: SPEAKER_02
+Transcript:  And then the ideas can manifest through your hands into the world.
+
+Segment 140:
+Start time: 464.34
+End time: 467.67
+Speaker: SPEAKER_02
+Transcript:  And that's something I learned earlier than a lot of people.
+
+Segment 141:
+Start time: 469.12
+End time: 476.04
+Speaker: SPEAKER_02
+Transcript:  And so really, you know, if I'm a master of something, then it's building or it's open
+
+Segment 142:
+Start time: 476.14
+End time: 476.33
+Speaker: SPEAKER_02
+Transcript:  source.
+
+Segment 143:
+Start time: 477.04
+End time: 481.32
+Speaker: SPEAKER_02
+Transcript:  I mean, that's what that's later in life, but just the understanding that you can make
+
+Segment 144:
+Start time: 481.42
+End time: 485.33
+Speaker: SPEAKER_02
+Transcript:  things, that's the powerful thing that not everybody gets in life.
+
+Segment 145:
+Start time: 487.53
+End time: 487.82
+Speaker: SPEAKER_01
+Transcript:  Right.
+
+Segment 146:
+Start time: 487.88
+End time: 488.88
+Speaker: SPEAKER_01
+Transcript:  Yeah.
+
+Segment 147:
+Start time: 489.12
+End time: 494.72
+Speaker: SPEAKER_01
+Transcript:  And as you got older, so you were, you were tinkering with these things at some point,
+
+Segment 148:
+Start time: 494.84
+End time: 496.20
+Speaker: SPEAKER_01
+Transcript:  you must've discovered the internet.
+
+Segment 149:
+Start time: 497.50
+End time: 497.56
+Speaker: SPEAKER_02
+Transcript:  Yep.
+
+Segment 150:
+Start time: 497.56
+End time: 498.50
+Speaker: SPEAKER_02
+Transcript:  Through the modem.
+
+Segment 151:
+Start time: 498.68
+End time: 499.39
+Speaker: SPEAKER_01
+Transcript:  What was that like?
+
+Segment 152:
+Start time: 500.21
+End time: 500.37
+Speaker: SPEAKER_02
+Transcript:  Yeah.
+
+Segment 153:
+Start time: 500.82
+End time: 501.25
+Speaker: SPEAKER_02
+Transcript:  So BBS.
+
+Segment 154:
+Start time: 501.68
+End time: 505.74
+Speaker: SPEAKER_02
+Transcript:  So back then, so my first connection with the internet was through modems.
+
+Segment 155:
+Start time: 506.04
+End time: 509.48
+Speaker: SPEAKER_02
+Transcript:  So you would, this is in the nineties.
+
+Segment 156:
+Start time: 509.68
+End time: 512.22
+Speaker: SPEAKER_02
+Transcript:  So you would get the modem, but then like a few weeks later, you have to get the next
+
+Segment 157:
+Start time: 512.28
+End time: 514.57
+Speaker: SPEAKER_02
+Transcript:  modem because they were just getting better constantly.
+
+Segment 158:
+Start time: 516.32
+End time: 518.66
+Speaker: SPEAKER_02
+Transcript:  And so I got the modems and then you would have to dial into things.
+
+Segment 159:
+Start time: 518.88
+End time: 523.42
+Speaker: SPEAKER_02
+Transcript:  So those were the BBSs, which I guess are basically like discords right now.
+
+Segment 160:
+Start time: 524.45
+End time: 524.70
+Speaker: SPEAKER_02
+Transcript:  Right.
+
+Segment 161:
+Start time: 524.80
+End time: 527.40
+Speaker: SPEAKER_02
+Transcript:  Same exact thing, but you'd have to dial, you dial into them.
+
+Segment 162:
+Start time: 527.76
+End time: 530.98
+Speaker: SPEAKER_02
+Transcript:  There are phone numbers attached and identically the same thing.
+
+Segment 163:
+Start time: 531.32
+End time: 534.26
+Speaker: SPEAKER_02
+Transcript:  They're all based on the same concept, decades and decades of the same idea.
+
+Segment 164:
+Start time: 534.62
+End time: 537.88
+Speaker: SPEAKER_02
+Transcript:  So you're dialing and you would trade files or talk to people.
+
+Segment 165:
+Start time: 538.52
+End time: 544.60
+Speaker: SPEAKER_02
+Transcript:  And so I had pen pals when I was, you know, nine years old or under, you know, pen pals
+
+Segment 166:
+Start time: 544.68
+End time: 545.71
+Speaker: SPEAKER_02
+Transcript:  that my parents didn't know about.
+
+Segment 167:
+Start time: 546.52
+End time: 552.44
+Speaker: SPEAKER_02
+Transcript:  And I guess that is the pen pals were different back then because you had less of them and
+
+Segment 168:
+Start time: 552.56
+End time: 553.68
+Speaker: SPEAKER_02
+Transcript:  they weren't people screaming at you.
+
+Segment 169:
+Start time: 553.88
+End time: 555.07
+Speaker: SPEAKER_02
+Transcript:  There were people that wanted to talk to you.
+
+Segment 170:
+Start time: 555.90
+End time: 556.02
+Speaker: SPEAKER_02
+Transcript:  Right.
+
+Segment 171:
+Start time: 556.92
+End time: 558.44
+Speaker: SPEAKER_02
+Transcript:  And it was private conversations.
+
+Segment 172:
+Start time: 558.44
+End time: 562.68
+Speaker: SPEAKER_02
+Transcript:  Now if you can say that people have pen pals, they are with random people that don't care
+
+Segment 173:
+Start time: 562.72
+End time: 564.37
+Speaker: SPEAKER_02
+Transcript:  about you and are very likely robots.
+
+Segment 174:
+Start time: 565.95
+End time: 566.09
+Speaker: SPEAKER_01
+Transcript:  Yeah.
+
+Segment 175:
+Start time: 566.86
+End time: 567.83
+Speaker: SPEAKER_01
+Transcript:  So that was my beginning.
+
+Segment 176:
+Start time: 570.14
+End time: 571.60
+Speaker: SPEAKER_01
+Transcript:  Yeah.
+
+Segment 177:
+Start time: 571.68
+End time: 576.86
+Speaker: SPEAKER_01
+Transcript:  And then, so eventually, of course, you have to kind of make some decisions about what
+
+Segment 178:
+Start time: 577.92
+End time: 579.37
+Speaker: SPEAKER_01
+Transcript:  to study and what to do.
+
+Segment 179:
+Start time: 581.95
+End time: 583.50
+Speaker: SPEAKER_01
+Transcript:  What was that like going through college?
+
+Segment 180:
+Start time: 583.70
+End time: 588.66
+Speaker: SPEAKER_01
+Transcript:  And then you did graduate school, which was actually where, where we met at Drexel back
+
+Segment 181:
+Start time: 588.78
+End time: 590.25
+Speaker: SPEAKER_01
+Transcript:  many years ago in Philadelphia.
+
+Segment 182:
+Start time: 591.47
+End time: 591.70
+Speaker: SPEAKER_02
+Transcript:  Yeah.
+
+Segment 183:
+Start time: 591.88
+End time: 594.38
+Speaker: SPEAKER_02
+Transcript:  So I was in, I learned about Linux in high school.
+
+Segment 184:
+Start time: 594.60
+End time: 595.58
+Speaker: SPEAKER_02
+Transcript:  That was interesting.
+
+Segment 185:
+Start time: 595.92
+End time: 598.76
+Speaker: SPEAKER_02
+Transcript:  So that's my beginning, my open source life.
+
+Segment 186:
+Start time: 599.78
+End time: 605.22
+Speaker: SPEAKER_02
+Transcript:  And then I decided to get into electrical and computer engineering and math for undergrad.
+
+Segment 187:
+Start time: 606.52
+End time: 609.96
+Speaker: SPEAKER_02
+Transcript:  And that was, that was the, that was the idea I had in my head.
+
+Segment 188:
+Start time: 610.50
+End time: 615.36
+Speaker: SPEAKER_02
+Transcript:  I thought that engineering was hard to get into and that it was more of a, more of a
+
+Segment 189:
+Start time: 615.52
+End time: 619.96
+Speaker: SPEAKER_02
+Transcript:  real, a real study versus some of the other things that are offered out there.
+
+Segment 190:
+Start time: 620.44
+End time: 624.44
+Speaker: SPEAKER_02
+Transcript:  This is before we used the word STEM, you know, back then everybody was equal and wonderful
+
+Segment 191:
+Start time: 624.52
+End time: 625.11
+Speaker: SPEAKER_02
+Transcript:  who went to school.
+
+Segment 192:
+Start time: 625.64
+End time: 627.79
+Speaker: SPEAKER_02
+Transcript:  And now you're only cool if you do STEM, apparently.
+
+Segment 193:
+Start time: 628.64
+End time: 629.39
+Speaker: SPEAKER_02
+Transcript:  They're changing that to STEAM.
+
+Segment 194:
+Start time: 630.12
+End time: 631.90
+Speaker: SPEAKER_02
+Transcript:  But back then I decided engineering is going to be tough.
+
+Segment 195:
+Start time: 632.28
+End time: 634.43
+Speaker: SPEAKER_02
+Transcript:  So if I could study, then I can, I can do that.
+
+Segment 196:
+Start time: 635.22
+End time: 636.35
+Speaker: SPEAKER_02
+Transcript:  So that's how I got into undergrad.
+
+Segment 197:
+Start time: 637.12
+End time: 641.14
+Speaker: SPEAKER_02
+Transcript:  I also worked at the Department of Defense and I worked at Google during that time for
+
+Segment 198:
+Start time: 641.14
+End time: 641.51
+Speaker: SPEAKER_02
+Transcript:  a little bit.
+
+Segment 199:
+Start time: 642.14
+End time: 643.58
+Speaker: SPEAKER_02
+Transcript:  So those are some of the experiences.
+
+Segment 200:
+Start time: 643.70
+End time: 647.70
+Speaker: SPEAKER_02
+Transcript:  So school, work and government were all in my head.
+
+Segment 201:
+Start time: 648.54
+End time: 649.81
+Speaker: SPEAKER_02
+Transcript:  And I didn't like Google.
+
+Segment 202:
+Start time: 650.60
+End time: 655.70
+Speaker: SPEAKER_02
+Transcript:  I didn't like, I didn't like it there back in the O's because nobody there was over 30.
+
+Segment 203:
+Start time: 657.02
+End time: 661.10
+Speaker: SPEAKER_02
+Transcript:  And I realized that, and at the time I realized that they only really had one product that
+
+Segment 204:
+Start time: 661.20
+End time: 662.23
+Speaker: SPEAKER_02
+Transcript:  ever worked, which was ads.
+
+Segment 205:
+Start time: 663.80
+End time: 666.38
+Speaker: SPEAKER_02
+Transcript:  And since then they've yet to launch another product that really makes money.
+
+Segment 206:
+Start time: 667.26
+End time: 672.18
+Speaker: SPEAKER_02
+Transcript:  So I thought this is a company, and this is me as a kid, I thought this is a company that
+
+Segment 207:
+Start time: 673.48
+End time: 675.48
+Speaker: SPEAKER_02
+Transcript:  fails to deliver new products and doesn't hire people over 30.
+
+Segment 208:
+Start time: 676.22
+End time: 679.48
+Speaker: SPEAKER_02
+Transcript:  I'm like, this is probably not going to be, you know, it'll be fun, but I'm not going
+
+Segment 209:
+Start time: 679.48
+End time: 684.32
+Speaker: SPEAKER_02
+Transcript:  to learn as much as the hype gave you.
+
+Segment 210:
+Start time: 684.56
+End time: 688.04
+Speaker: SPEAKER_02
+Transcript:  I also worked in the government and that was also in engineering.
+
+Segment 211:
+Start time: 688.52
+End time: 693.66
+Speaker: SPEAKER_02
+Transcript:  I got an opportunity to go to one of the three-letter agencies and that was going to be my career
+
+Segment 212:
+Start time: 694.42
+End time: 695.35
+Speaker: SPEAKER_02
+Transcript:  to do that type of stuff.
+
+Segment 213:
+Start time: 696.84
+End time: 700.93
+Speaker: SPEAKER_02
+Transcript:  Failed the polygraph miserably, just multiple times, multiple hours.
+
+Segment 214:
+Start time: 702.36
+End time: 708.30
+Speaker: SPEAKER_02
+Transcript:  So I will finally come forward with that story at some point, but basically I am no longer
+
+Segment 215:
+Start time: 708.56
+End time: 712.34
+Speaker: SPEAKER_02
+Transcript:  able to work at the three-letter agencies because of this, or that's at least my understanding.
+
+Segment 216:
+Start time: 713.02
+End time: 719.02
+Speaker: SPEAKER_02
+Transcript:  So I thought, okay, well that's really like the best engineering job you can get is where
+
+Segment 217:
+Start time: 719.06
+End time: 724.50
+Speaker: SPEAKER_02
+Transcript:  I was in those two places on earth, like at Google or these three other agencies.
+
+Segment 218:
+Start time: 724.54
+End time: 729.26
+Speaker: SPEAKER_02
+Transcript:  And I was like, okay, well engineering, I need to diversify my portfolio here because
+
+Segment 219:
+Start time: 730.08
+End time: 734.14
+Speaker: SPEAKER_02
+Transcript:  I'm not going to become world-class as an engineer if these two avenues suck.
+
+Segment 220:
+Start time: 734.92
+End time: 736.13
+Speaker: SPEAKER_02
+Transcript:  So then for grad school, I went to business.
+
+Segment 221:
+Start time: 736.82
+End time: 741.70
+Speaker: SPEAKER_02
+Transcript:  I went for finance, international business, and that really opened a lot of doors too.
+
+Segment 222:
+Start time: 742.94
+End time: 748.00
+Speaker: SPEAKER_02
+Transcript:  So under my undergrad definition, that was a soft major, that was a real soft one.
+
+Segment 223:
+Start time: 749.02
+End time: 752.94
+Speaker: SPEAKER_02
+Transcript:  And I was working at the time so I could work in school, obviously didn't require my full
+
+Segment 224:
+Start time: 753.00
+End time: 756.42
+Speaker: SPEAKER_02
+Transcript:  attention for grad school, but that's how I got into business.
+
+Segment 225:
+Start time: 757.34
+End time: 757.40
+Speaker: Unknown
+Transcript:  Wow.
+
+Segment 226:
+Start time: 758.81
+End time: 759.01
+Speaker: SPEAKER_01
+Transcript:  Yeah.
+
+Segment 227:
+Start time: 760.30
+End time: 766.12
+Speaker: SPEAKER_01
+Transcript:  And I guess it was maybe around that time that you started keeping these annual goals,
+
+Segment 228:
+Start time: 766.69
+End time: 766.89
+Speaker: SPEAKER_01
+Transcript:  right?
+
+Segment 229:
+Start time: 767.34
+End time: 771.62
+Speaker: SPEAKER_01
+Transcript:  And you still, you have this list of annual goals you put publicly on your website.
+
+Segment 230:
+Start time: 771.74
+End time: 773.55
+Speaker: SPEAKER_01
+Transcript:  You've been updating them every year since 2011.
+
+Segment 231:
+Start time: 775.50
+End time: 777.78
+Speaker: SPEAKER_01
+Transcript:  How did that practice start?
+
+Segment 232:
+Start time: 778.34
+End time: 784.58
+Speaker: SPEAKER_01
+Transcript:  I mean, I guess it wraps into kind of just how you think about setting goals in life
+
+Segment 233:
+Start time: 784.72
+End time: 791.70
+Speaker: SPEAKER_01
+Transcript:  and deciding how to spend your time if the so-called two great avenues for engineers
+
+Segment 234:
+Start time: 793.95
+End time: 795.68
+Speaker: SPEAKER_01
+Transcript:  isn't the road to paradise.
+
+Segment 235:
+Start time: 796.36
+End time: 798.16
+Speaker: SPEAKER_02
+Transcript:  Yeah, this is something I started in grad school.
+
+Segment 236:
+Start time: 798.80
+End time: 803.16
+Speaker: SPEAKER_02
+Transcript:  I think the book was, I think the book's called 168 Hours or something like that.
+
+Segment 237:
+Start time: 803.92
+End time: 806.36
+Speaker: SPEAKER_02
+Transcript:  I think that's possibly what got me onto this.
+
+Segment 238:
+Start time: 807.30
+End time: 812.32
+Speaker: SPEAKER_02
+Transcript:  And what I did was, because college is just, grad school was just such a crazy time for
+
+Segment 239:
+Start time: 812.38
+End time: 816.04
+Speaker: SPEAKER_02
+Transcript:  me, school and work and lots of changes in life and moving and all that.
+
+Segment 240:
+Start time: 817.06
+End time: 823.86
+Speaker: SPEAKER_02
+Transcript:  And what I did was, is I took a snapshot of my week and I mapped out my 168 hours and
+
+Segment 241:
+Start time: 825.24
+End time: 829.78
+Speaker: SPEAKER_02
+Transcript:  then I snapshot it like the year before or something and I compared them and I did a
+
+Segment 242:
+Start time: 830.20
+End time: 830.36
+Speaker: SPEAKER_02
+Transcript:  diff.
+
+Segment 243:
+Start time: 831.14
+End time: 833.68
+Speaker: SPEAKER_02
+Transcript:  I said, I did more hours on this and less hours on that.
+
+Segment 244:
+Start time: 834.38
+End time: 839.08
+Speaker: SPEAKER_02
+Transcript:  And I thought, where is, which of these things are having impacts on routines?
+
+Segment 245:
+Start time: 839.18
+End time: 842.60
+Speaker: SPEAKER_02
+Transcript:  For me, if you're not doing it weekly, if you're not writing it down and telling everybody,
+
+Segment 246:
+Start time: 843.02
+End time: 843.59
+Speaker: SPEAKER_02
+Transcript:  you're not doing it all.
+
+Segment 247:
+Start time: 844.62
+End time: 851.22
+Speaker: SPEAKER_02
+Transcript:  So if your podcast isn't weekly, if your workout routine isn't, I mean, it can be more than
+
+Segment 248:
+Start time: 851.22
+End time: 855.48
+Speaker: SPEAKER_02
+Transcript:  weekly, but it has to at least be on a weekly schedule, then that's where habits come from.
+
+Segment 249:
+Start time: 855.58
+End time: 856.13
+Speaker: SPEAKER_02
+Transcript:  And I figured that out.
+
+Segment 250:
+Start time: 856.82
+End time: 859.94
+Speaker: SPEAKER_02
+Transcript:  And so when I found, I started with my time.
+
+Segment 251:
+Start time: 860.06
+End time: 863.14
+Speaker: SPEAKER_02
+Transcript:  And so I found my time, I said, okay, all the things I'm going to achieve are either
+
+Segment 252:
+Start time: 863.20
+End time: 867.62
+Speaker: SPEAKER_02
+Transcript:  going to be fitting into my week or if they're not going to fit into my week, they need to
+
+Segment 253:
+Start time: 867.64
+End time: 869.66
+Speaker: SPEAKER_02
+Transcript:  be so big that they don't fit.
+
+Segment 254:
+Start time: 869.74
+End time: 874.18
+Speaker: SPEAKER_02
+Transcript:  But the problem is when you make big goals like that, it's easy to push them off because
+
+Segment 255:
+Start time: 874.56
+End time: 876.91
+Speaker: SPEAKER_02
+Transcript:  if it's not this week, it's next week and next week never comes.
+
+Segment 256:
+Start time: 877.80
+End time: 881.28
+Speaker: SPEAKER_02
+Transcript:  So for my bigger goals, I actually just started writing them down and publishing them.
+
+Segment 257:
+Start time: 881.82
+End time: 886.78
+Speaker: SPEAKER_02
+Transcript:  And so those are on my website and there's, I mean, there's big things, there's little
+
+Segment 258:
+Start time: 886.80
+End time: 886.98
+Speaker: SPEAKER_02
+Transcript:  things.
+
+Segment 259:
+Start time: 888.60
+End time: 892.58
+Speaker: SPEAKER_02
+Transcript:  One of the, I mean, there's all kinds of good stuff here, but if you don't write it down,
+
+Segment 260:
+Start time: 892.78
+End time: 893.74
+Speaker: SPEAKER_02
+Transcript:  then it doesn't happen.
+
+Segment 261:
+Start time: 894.08
+End time: 897.00
+Speaker: SPEAKER_02
+Transcript:  I also have a book, I always have this book with me.
+
+Segment 262:
+Start time: 898.10
+End time: 901.42
+Speaker: SPEAKER_02
+Transcript:  So here's the famous book, you know, important meetings going here.
+
+Segment 263:
+Start time: 902.00
+End time: 903.60
+Speaker: SPEAKER_02
+Transcript:  And I even write commitments to myself in here.
+
+Segment 264:
+Start time: 904.20
+End time: 906.55
+Speaker: SPEAKER_02
+Transcript:  So like, what am I going to do this month or something?
+
+Segment 265:
+Start time: 907.38
+End time: 909.38
+Speaker: SPEAKER_02
+Transcript:  And it's not just because they're private.
+
+Segment 266:
+Start time: 909.80
+End time: 911.32
+Speaker: SPEAKER_02
+Transcript:  It's not like I only put the private things in the book.
+
+Segment 267:
+Start time: 912.00
+End time: 915.01
+Speaker: SPEAKER_02
+Transcript:  It's just that I didn't feel like they were important enough to publish yet.
+
+Segment 268:
+Start time: 916.54
+End time: 917.57
+Speaker: SPEAKER_02
+Transcript:  And you know, you got to make commitments.
+
+Segment 269:
+Start time: 918.42
+End time: 919.47
+Speaker: SPEAKER_02
+Transcript:  That's where big things happen from.
+
+Segment 270:
+Start time: 921.58
+End time: 921.81
+Speaker: SPEAKER_01
+Transcript:  Yeah.
+
+Segment 271:
+Start time: 926.52
+End time: 926.95
+Speaker: SPEAKER_01
+Transcript:  And 168 hours.
+
+Segment 272:
+Start time: 928.80
+End time: 929.90
+Speaker: SPEAKER_01
+Transcript:  That's the, that's a book.
+
+Segment 273:
+Start time: 930.04
+End time: 934.68
+Speaker: SPEAKER_01
+Transcript:  You also keep track of all the books you read and you have like little reviews.
+
+Segment 274:
+Start time: 935.38
+End time: 935.95
+Speaker: SPEAKER_02
+Transcript:  It doesn't everybody.
+
+Segment 275:
+Start time: 936.70
+End time: 937.25
+Speaker: SPEAKER_02
+Transcript:  Is that not a thing?
+
+Segment 276:
+Start time: 938.40
+End time: 940.84
+Speaker: SPEAKER_01
+Transcript:  No, it should be.
+
+Segment 277:
+Start time: 941.34
+End time: 945.44
+Speaker: SPEAKER_01
+Transcript:  It's great to see like your, your reflections on the books.
+
+Segment 278:
+Start time: 946.60
+End time: 951.74
+Speaker: SPEAKER_01
+Transcript:  I've decided not to read a bunch of books just because you gave them a poor review.
+
+Segment 279:
+Start time: 953.06
+End time: 955.67
+Speaker: SPEAKER_01
+Transcript:  And I don't encapsulated like they're 300 pages into one sentence.
+
+Segment 280:
+Start time: 959.41
+End time: 960.50
+Speaker: SPEAKER_02
+Transcript:  But maybe you really resonate.
+
+Segment 281:
+Start time: 960.60
+End time: 962.54
+Speaker: SPEAKER_02
+Transcript:  I mean, I, I don't really like star ratings.
+
+Segment 282:
+Start time: 962.54
+End time: 963.46
+Speaker: SPEAKER_02
+Transcript:  I think star ratings are going away.
+
+Segment 283:
+Start time: 964.16
+End time: 970.30
+Speaker: SPEAKER_02
+Transcript:  So I try to put like the words sometimes I really, there's just nothing redeeming to say about a book.
+
+Segment 284:
+Start time: 970.70
+End time: 973.85
+Speaker: SPEAKER_02
+Transcript:  But in general, for me, if you don't have a pen, you can't read.
+
+Segment 285:
+Start time: 975.72
+End time: 977.44
+Speaker: SPEAKER_01
+Transcript:  I mean, it's got to be interactive.
+
+Segment 286:
+Start time: 977.56
+End time: 978.54
+Speaker: SPEAKER_02
+Transcript:  Everything's interactive.
+
+Segment 287:
+Start time: 978.54
+End time: 979.34
+Speaker: SPEAKER_02
+Transcript:  Life is interactive.
+
+Segment 288:
+Start time: 979.90
+End time: 981.20
+Speaker: SPEAKER_02
+Transcript:  So if you're reading, you're doing it wrong.
+
+Segment 289:
+Start time: 981.54
+End time: 982.44
+Speaker: SPEAKER_02
+Transcript:  You need a pen.
+
+Segment 290:
+Start time: 982.54
+End time: 984.14
+Speaker: SPEAKER_02
+Transcript:  Now, some people I'm not onto the digital yet.
+
+Segment 291:
+Start time: 984.54
+End time: 992.06
+Speaker: SPEAKER_02
+Transcript:  I haven't found the right digital experience, but if you can write, you know, if you can use it digitally, but I, you know, I have piles of books here that are just marked up.
+
+Segment 292:
+Start time: 992.74
+End time: 996.30
+Speaker: SPEAKER_02
+Transcript:  You know, you could, you could see them having an argument with the book.
+
+Segment 293:
+Start time: 996.62
+End time: 999.30
+Speaker: SPEAKER_02
+Transcript:  Like you can see it in real time.
+
+Segment 294:
+Start time: 999.54
+End time: 1000.54
+Speaker: SPEAKER_02
+Transcript:  Like I'm fighting it.
+
+Segment 295:
+Start time: 1000.58
+End time: 1001.05
+Speaker: SPEAKER_02
+Transcript:  I'm fighting it.
+
+Segment 296:
+Start time: 1001.54
+End time: 1002.25
+Speaker: SPEAKER_02
+Transcript:  You know, I'm coming around.
+
+Segment 297:
+Start time: 1002.74
+End time: 1006.00
+Speaker: SPEAKER_02
+Transcript:  And then I just take those notes and I mail a letter to the author, like, you know, send a diff.
+
+Segment 298:
+Start time: 1006.78
+End time: 1012.34
+Speaker: SPEAKER_02
+Transcript:  So this is, this is something that if you're not, if you're not ever writing to authors, you're doing it wrong.
+
+Segment 299:
+Start time: 1013.64
+End time: 1019.60
+Speaker: SPEAKER_02
+Transcript:  Now it's rough when the authors are dead, but yeah, you should definitely be taking notes when you're reading.
+
+Segment 300:
+Start time: 1020.78
+End time: 1020.99
+Speaker: SPEAKER_01
+Transcript:  Yeah.
+
+Segment 301:
+Start time: 1022.91
+End time: 1023.18
+Speaker: SPEAKER_01
+Transcript:  Yeah.
+
+Segment 302:
+Start time: 1024.96
+End time: 1029.36
+Speaker: SPEAKER_01
+Transcript:  So let's get into like process for learning new technologies.
+
+Segment 303:
+Start time: 1029.62
+End time: 1038.06
+Speaker: SPEAKER_01
+Transcript:  Like when you encounter a new technology or body of knowledge that you want to learn about, what is, what is the general approach?
+
+Segment 304:
+Start time: 1038.68
+End time: 1043.07
+Speaker: SPEAKER_01
+Transcript:  And maybe we could try and take the example of when you first.
+
+Segment 305:
+Start time: 1048.91
+End time: 1049.28
+Speaker: SPEAKER_02
+Transcript:  Lost you.
+
+Segment 306:
+Start time: 1049.58
+End time: 1050.07
+Speaker: SPEAKER_02
+Transcript:  When I first.
+
+Segment 307:
+Start time: 1051.54
+End time: 1052.52
+Speaker: SPEAKER_01
+Transcript:  Encountered blockchain.
+
+Segment 308:
+Start time: 1052.54
+End time: 1052.62
+Speaker: SPEAKER_01
+Transcript:  Yeah.
+
+Segment 309:
+Start time: 1053.78
+End time: 1054.71
+Speaker: SPEAKER_02
+Transcript:  Same approach every time.
+
+Segment 310:
+Start time: 1055.64
+End time: 1057.63
+Speaker: SPEAKER_02
+Transcript:  Learning is for suckers doing is for winners.
+
+Segment 311:
+Start time: 1059.16
+End time: 1063.84
+Speaker: SPEAKER_02
+Transcript:  So I think you told me this too, with, with China, you and I talked about this with Chinese.
+
+Segment 312:
+Start time: 1065.68
+End time: 1067.16
+Speaker: SPEAKER_02
+Transcript:  Remember this discussion forever ago.
+
+Segment 313:
+Start time: 1068.16
+End time: 1071.52
+Speaker: SPEAKER_02
+Transcript:  And I was like, Dan, I'm learning Chinese.
+
+Segment 314:
+Start time: 1071.68
+End time: 1075.54
+Speaker: SPEAKER_02
+Transcript:  And I started doing this podcast or something, but I'm stuck.
+
+Segment 315:
+Start time: 1076.18
+End time: 1078.54
+Speaker: SPEAKER_02
+Transcript:  I'm stuck between the beginner lessons and the intermediate lessons.
+
+Segment 316:
+Start time: 1078.60
+End time: 1079.54
+Speaker: SPEAKER_02
+Transcript:  The beginner ones are too easy.
+
+Segment 317:
+Start time: 1079.66
+End time: 1081.42
+Speaker: SPEAKER_02
+Transcript:  The intermediate is too hard.
+
+Segment 318:
+Start time: 1081.68
+End time: 1082.54
+Speaker: SPEAKER_02
+Transcript:  And I said, what do you do, Dan?
+
+Segment 319:
+Start time: 1082.54
+End time: 1084.03
+Speaker: SPEAKER_02
+Transcript:  And do you remember what you said?
+
+Segment 320:
+Start time: 1087.02
+End time: 1090.54
+Speaker: SPEAKER_01
+Transcript:  I probably said like throughout the lessons, like go talk to people in Chinese.
+
+Segment 321:
+Start time: 1091.46
+End time: 1093.11
+Speaker: SPEAKER_02
+Transcript:  No, go to the advanced ones.
+
+Segment 322:
+Start time: 1095.86
+End time: 1097.23
+Speaker: SPEAKER_00
+Transcript:  That's exactly what I did.
+
+Segment 323:
+Start time: 1102.41
+End time: 1104.54
+Speaker: SPEAKER_02
+Transcript:  So the progressive learning, this is all done.
+
+Segment 324:
+Start time: 1105.28
+End time: 1108.54
+Speaker: SPEAKER_02
+Transcript:  The progressive learning is not how you learn.
+
+Segment 325:
+Start time: 1109.13
+End time: 1110.54
+Speaker: SPEAKER_02
+Transcript:  That is how kids learn.
+
+Segment 326:
+Start time: 1111.04
+End time: 1114.52
+Speaker: SPEAKER_02
+Transcript:  And maybe, maybe that's for kids, but the adult learning, the way you learn as an adult is you do things.
+
+Segment 327:
+Start time: 1115.78
+End time: 1121.68
+Speaker: SPEAKER_02
+Transcript:  And so for programming and for technology, the answer is you must, every time have a project.
+
+Segment 328:
+Start time: 1123.45
+End time: 1124.52
+Speaker: SPEAKER_02
+Transcript:  A full MVP.
+
+Segment 329:
+Start time: 1124.54
+End time: 1125.38
+Speaker: SPEAKER_02
+Transcript:  I'm the master of MVP.
+
+Segment 330:
+Start time: 1125.56
+End time: 1126.42
+Speaker: SPEAKER_02
+Transcript:  That's another thing.
+
+Segment 331:
+Start time: 1127.28
+End time: 1130.77
+Speaker: SPEAKER_02
+Transcript:  So MVP, the MVP of learning is producing.
+
+Segment 332:
+Start time: 1133.24
+End time: 1135.32
+Speaker: SPEAKER_02
+Transcript:  So there is no learning for learning sake.
+
+Segment 333:
+Start time: 1135.92
+End time: 1137.32
+Speaker: SPEAKER_02
+Transcript:  People don't learn things unless you're a kid.
+
+Segment 334:
+Start time: 1137.72
+End time: 1139.52
+Speaker: SPEAKER_02
+Transcript:  And kids learn auditorily.
+
+Segment 335:
+Start time: 1140.02
+End time: 1143.54
+Speaker: SPEAKER_02
+Transcript:  So they learn because they like to repeat things through their mouth that they hear through their ears.
+
+Segment 336:
+Start time: 1143.54
+End time: 1144.05
+Speaker: SPEAKER_02
+Transcript:  Kids are different.
+
+Segment 337:
+Start time: 1145.54
+End time: 1151.76
+Speaker: SPEAKER_02
+Transcript:  But as an adult, after 12 or something, you learn with the goal of an outcome.
+
+Segment 338:
+Start time: 1152.66
+End time: 1157.38
+Speaker: SPEAKER_02
+Transcript:  And so for technology and things in life, I immediately start with I want to make.
+
+Segment 339:
+Start time: 1158.68
+End time: 1166.12
+Speaker: SPEAKER_02
+Transcript:  So if the goal is I want to learn how to solder, the answer is not I want to solder things onto a board.
+
+Segment 340:
+Start time: 1166.54
+End time: 1167.44
+Speaker: SPEAKER_02
+Transcript:  The answer is I want to make.
+
+Segment 341:
+Start time: 1167.58
+End time: 1172.84
+Speaker: SPEAKER_02
+Transcript:  So I just bought this for my daughter's 4th, and we're going to teach her how to solder.
+
+Segment 342:
+Start time: 1173.66
+End time: 1176.38
+Speaker: SPEAKER_02
+Transcript:  So her goal is not, so I got two of these.
+
+Segment 343:
+Start time: 1176.80
+End time: 1177.91
+Speaker: SPEAKER_02
+Transcript:  One of these is for me.
+
+Segment 344:
+Start time: 1178.60
+End time: 1180.34
+Speaker: SPEAKER_02
+Transcript:  So this is surface mount practice.
+
+Segment 345:
+Start time: 1180.54
+End time: 1181.30
+Speaker: SPEAKER_02
+Transcript:  So this one's for me.
+
+Segment 346:
+Start time: 1181.98
+End time: 1183.90
+Speaker: SPEAKER_02
+Transcript:  It's because I haven't soldered in a year or something.
+
+Segment 347:
+Start time: 1184.56
+End time: 1185.95
+Speaker: SPEAKER_02
+Transcript:  So I'm going to practice on this before I work with her.
+
+Segment 348:
+Start time: 1186.66
+End time: 1189.36
+Speaker: SPEAKER_02
+Transcript:  And then hers is not I'm going to learn how to solder.
+
+Segment 349:
+Start time: 1189.54
+End time: 1190.35
+Speaker: SPEAKER_02
+Transcript:  It's I'm going to make a radio.
+
+Segment 350:
+Start time: 1192.64
+End time: 1195.54
+Speaker: SPEAKER_02
+Transcript:  And she likes music and she likes radio and she likes different channels.
+
+Segment 351:
+Start time: 1196.24
+End time: 1199.28
+Speaker: SPEAKER_02
+Transcript:  So this is going to be this is going to be her project.
+
+Segment 352:
+Start time: 1199.83
+End time: 1200.54
+Speaker: SPEAKER_02
+Transcript:  So you never you never tell.
+
+Segment 353:
+Start time: 1201.22
+End time: 1205.28
+Speaker: SPEAKER_02
+Transcript:  Well, as a kid, I'm not going to tell you, hey, let's go learn to solder.
+
+Segment 354:
+Start time: 1205.58
+End time: 1207.75
+Speaker: SPEAKER_02
+Transcript:  Hey, let's go make this fun new thing that works when I hit buttons.
+
+Segment 355:
+Start time: 1210.53
+End time: 1211.06
+Speaker: SPEAKER_02
+Transcript:  That's how you learn.
+
+Segment 356:
+Start time: 1211.54
+End time: 1212.52
+Speaker: SPEAKER_02
+Transcript:  So for blockchain, same thing.
+
+Segment 357:
+Start time: 1213.36
+End time: 1218.54
+Speaker: SPEAKER_02
+Transcript:  I was I was in the whole beginning of blockchain is the whole way that I got sucked into it.
+
+Segment 358:
+Start time: 1219.18
+End time: 1221.46
+Speaker: SPEAKER_02
+Transcript:  But when I decided that I was going to do NFTs.
+
+Segment 359:
+Start time: 1224.28
+End time: 1231.50
+Speaker: SPEAKER_02
+Transcript:  The thought was, I mean, I saw the opportunity of how to get into NFTs and I saw where I didn't fit in, which was the standardization process.
+
+Segment 360:
+Start time: 1232.62
+End time: 1235.44
+Speaker: SPEAKER_02
+Transcript:  But in order to do that, the goal was never to standardize or to learn.
+
+Segment 361:
+Start time: 1235.54
+End time: 1238.52
+Speaker: SPEAKER_02
+Transcript:  It was I need to build I need to get right into the making.
+
+Segment 362:
+Start time: 1239.90
+End time: 1244.22
+Speaker: SPEAKER_02
+Transcript:  And so I made my own NFT project as a demo for the future.
+
+Segment 363:
+Start time: 1246.93
+End time: 1248.54
+Speaker: SPEAKER_02
+Transcript:  Really, for me, for the future, me and building things.
+
+Segment 364:
+Start time: 1248.82
+End time: 1251.54
+Speaker: SPEAKER_02
+Transcript:  The story was a little crazy how I started learning.
+
+Segment 365:
+Start time: 1252.34
+End time: 1258.52
+Speaker: SPEAKER_02
+Transcript:  So I decided that I needed to learn Ethereum, blockchain, smart contracts, NFTs, this type of stuff.
+
+Segment 366:
+Start time: 1258.54
+End time: 1259.01
+Speaker: SPEAKER_02
+Transcript:  And so I went on Upwork.
+
+Segment 367:
+Start time: 1260.56
+End time: 1262.02
+Speaker: SPEAKER_02
+Transcript:  I was reading the documentation.
+
+Segment 368:
+Start time: 1262.02
+End time: 1262.54
+Speaker: SPEAKER_02
+Transcript: Documentation sucked.
+
+Segment 369:
+Start time: 1262.62
+End time: 1263.31
+Speaker: SPEAKER_02
+Transcript:  Just was not usable.
+
+Segment 370:
+Start time: 1264.54
+End time: 1269.44
+Speaker: SPEAKER_02
+Transcript:  And I said, OK, I'm going to hire somebody and here's how it's going to work.
+
+Segment 371:
+Start time: 1269.54
+End time: 1271.06
+Speaker: SPEAKER_02
+Transcript:  This person is going to.
+
+Segment 372:
+Start time: 1271.92
+End time: 1273.14
+Speaker: SPEAKER_02
+Transcript:  So I made a job description.
+
+Segment 373:
+Start time: 1273.86
+End time: 1274.83
+Speaker: SPEAKER_02
+Transcript:  I said, you're going to write me.
+
+Segment 374:
+Start time: 1274.83
+End time: 1275.34
+Speaker: SPEAKER_02
+Transcript: Hello, world.
+
+Segment 375:
+Start time: 1276.20
+End time: 1278.18
+Speaker: SPEAKER_02
+Transcript:  In Solidity, which is the programming language.
+
+Segment 376:
+Start time: 1278.92
+End time: 1283.44
+Speaker: SPEAKER_02
+Transcript:  And you're going to give me two hours of one on one chat.
+
+Segment 377:
+Start time: 1285.28
+End time: 1288.36
+Speaker: SPEAKER_02
+Transcript:  And that's going to be enough for me, I can learn anything in two hours with an expert.
+
+Segment 378:
+Start time: 1289.17
+End time: 1289.81
+Speaker: SPEAKER_02
+Transcript:  So that's the pitch.
+
+Segment 379:
+Start time: 1289.81
+End time: 1290.32
+Speaker: SPEAKER_02
+Transcript: You're going to write me.
+
+Segment 380:
+Start time: 1290.32
+End time: 1290.54
+Speaker: SPEAKER_02
+Transcript: Hello, world.
+
+Segment 381:
+Start time: 1290.68
+End time: 1291.95
+Speaker: SPEAKER_02
+Transcript:  It's going to compile.
+
+Segment 382:
+Start time: 1291.95
+End time: 1294.30
+Speaker: SPEAKER_02
+Transcript: You're going to talk to me for two hours and then I'm going to know this.
+
+Segment 383:
+Start time: 1295.33
+End time: 1296.84
+Speaker: SPEAKER_02
+Transcript:  And I paid three three grand for this.
+
+Segment 384:
+Start time: 1298.29
+End time: 1299.65
+Speaker: SPEAKER_02
+Transcript:  Wow.
+
+Segment 385:
+Start time: 1299.65
+End time: 1300.40
+Speaker: SPEAKER_02
+Transcript: Who did you talk to?
+
+Segment 386:
+Start time: 1303.47
+End time: 1305.21
+Speaker: SPEAKER_02
+Transcript:  Very few people were available.
+
+Segment 387:
+Start time: 1305.21
+End time: 1306.10
+Speaker: SPEAKER_02
+Transcript: This market was very high.
+
+Segment 388:
+Start time: 1306.76
+End time: 1308.45
+Speaker: SPEAKER_02
+Transcript:  So he took my three grand.
+
+Segment 389:
+Start time: 1308.45
+End time: 1309.66
+Speaker: SPEAKER_02
+Transcript: We're scheduled for next Tuesday.
+
+Segment 390:
+Start time: 1310.86
+End time: 1312.80
+Speaker: SPEAKER_02
+Transcript:  And Monday comes and he texts me.
+
+Segment 391:
+Start time: 1314.11
+End time: 1315.18
+Speaker: SPEAKER_02
+Transcript:  He sends the money back.
+
+Segment 392:
+Start time: 1316.47
+End time: 1318.10
+Speaker: SPEAKER_02
+Transcript:  He says, sorry, I don't have time for this.
+
+Segment 393:
+Start time: 1318.84
+End time: 1320.35
+Speaker: SPEAKER_02
+Transcript:  The market's too high.
+
+Segment 394:
+Start time: 1320.35
+End time: 1322.04
+Speaker: SPEAKER_02
+Transcript: Sends my three grand back to me.
+
+Segment 395:
+Start time: 1325.62
+End time: 1326.81
+Speaker: SPEAKER_02
+Transcript:  Wow, that's crazy.
+
+Segment 396:
+Start time: 1327.66
+End time: 1332.08
+Speaker: SPEAKER_02
+Transcript:  So if he isn't, if nobody on Upwork is going to take my three grand for two hours of talking to me,
+
+Segment 397:
+Start time: 1332.80
+End time: 1335.86
+Speaker: SPEAKER_02
+Transcript:  then I even more so need to learn this stuff.
+
+Segment 398:
+Start time: 1336.86
+End time: 1338.31
+Speaker: SPEAKER_02
+Transcript:  And I just set the goal.
+
+Segment 399:
+Start time: 1338.31
+End time: 1341.54
+Speaker: SPEAKER_02
+Transcript: I said, OK, screw smart contracts, screw learning.
+
+Segment 400:
+Start time: 1341.62
+End time: 1342.63
+Speaker: SPEAKER_02
+Transcript:  I'm going to make an NFT.
+
+Segment 401:
+Start time: 1342.63
+End time: 1344.46
+Speaker: SPEAKER_02
+Transcript: People don't even know what an NFT is at this point.
+
+Segment 402:
+Start time: 1344.56
+End time: 1345.69
+Speaker: SPEAKER_02
+Transcript:  So that's what I'm going to make.
+
+Segment 403:
+Start time: 1345.69
+End time: 1346.94
+Speaker: SPEAKER_02
+Transcript: I'm going to make this.
+
+Segment 404:
+Start time: 1347.62
+End time: 1349.92
+Speaker: SPEAKER_02
+Transcript:  And I'm going to plow through everything that doesn't work.
+
+Segment 405:
+Start time: 1350.54
+End time: 1352.16
+Speaker: SPEAKER_02
+Transcript:  If the documentation doesn't work, I'm going to fix it.
+
+Segment 406:
+Start time: 1352.60
+End time: 1354.12
+Speaker: SPEAKER_02
+Transcript:  If the compiler doesn't work, I'm going to fix it.
+
+Segment 407:
+Start time: 1354.54
+End time: 1356.28
+Speaker: SPEAKER_02
+Transcript:  If the language is wrong, I'm going to fix it.
+
+Segment 408:
+Start time: 1356.54
+End time: 1358.35
+Speaker: SPEAKER_02
+Transcript:  And I plowed through the NFTs.
+
+Segment 409:
+Start time: 1358.35
+End time: 1360.44
+Speaker: SPEAKER_02
+Transcript: I know I'm probably known for the ERC721 part,
+
+Segment 410:
+Start time: 1361.56
+End time: 1365.18
+Speaker: SPEAKER_02
+Transcript:  but the contribution is also the ones that they didn't pass,
+
+Segment 411:
+Start time: 1365.56
+End time: 1368.02
+Speaker: SPEAKER_02
+Transcript:  the competitors to ERC721, which were canceled.
+
+Segment 412:
+Start time: 1368.84
+End time: 1372.50
+Speaker: SPEAKER_02
+Transcript:  The language improvement, the compiler, the standardization process.
+
+Segment 413:
+Start time: 1373.54
+End time: 1377.96
+Speaker: SPEAKER_02
+Transcript:  It's like you're driving a train and then you're building the track in front of you as you're going.
+
+Segment 414:
+Start time: 1378.54
+End time: 1379.27
+Speaker: SPEAKER_02
+Transcript:  Like that's what this was like.
+
+Segment 415:
+Start time: 1380.54
+End time: 1381.83
+Speaker: SPEAKER_02
+Transcript:  But I was focused.
+
+Segment 416:
+Start time: 1381.83
+End time: 1384.52
+Speaker: SPEAKER_02
+Transcript: I knew where I had to get to and I knew everything that was broken.
+
+Segment 417:
+Start time: 1384.74
+End time: 1388.94
+Speaker: SPEAKER_02
+Transcript:  And it was just through sheer will in the, I guess, in Animal Farm, I'm the horse.
+
+Segment 418:
+Start time: 1390.32
+End time: 1393.57
+Speaker: SPEAKER_02
+Transcript:  So I'm just pushing very, very hard on this.
+
+Segment 419:
+Start time: 1393.57
+End time: 1394.58
+Speaker: SPEAKER_02
+Transcript: And it worked.
+
+Segment 420:
+Start time: 1395.82
+End time: 1398.52
+Speaker: SPEAKER_02
+Transcript:  But that's also and people say, well, isn't that the hardest way to learn?
+
+Segment 421:
+Start time: 1398.58
+End time: 1400.69
+Speaker: SPEAKER_02
+Transcript:  Like, isn't there easier ways to learn?
+
+Segment 422:
+Start time: 1400.69
+End time: 1402.82
+Speaker: SPEAKER_02
+Transcript: No, this is the easiest way to learn.
+
+Segment 423:
+Start time: 1403.80
+End time: 1405.79
+Speaker: SPEAKER_02
+Transcript:  This is how you learn things is you, you, you try.
+
+Segment 424:
+Start time: 1407.54
+End time: 1409.01
+Speaker: SPEAKER_02
+Transcript:  I mean, you have to be focused.
+
+Segment 425:
+Start time: 1409.01
+End time: 1410.16
+Speaker: SPEAKER_02
+Transcript: I'm not saying it has to be hard.
+
+Segment 426:
+Start time: 1410.58
+End time: 1414.34
+Speaker: SPEAKER_02
+Transcript:  I'm not saying you have to look at bits and bytes instead of words and paragraphs,
+
+Segment 427:
+Start time: 1414.78
+End time: 1417.52
+Speaker: SPEAKER_02
+Transcript:  but you have to be you have to have a direction and you have to focus on that.
+
+Segment 428:
+Start time: 1418.14
+End time: 1420.47
+Speaker: SPEAKER_02
+Transcript:  It's like people ask me, how did you learn Chinese?
+
+Segment 429:
+Start time: 1420.47
+End time: 1421.50
+Speaker: SPEAKER_02
+Transcript: My Chinese is pretty decent,
+
+Segment 430:
+Start time: 1422.24
+End time: 1423.95
+Speaker: SPEAKER_02
+Transcript:  especially the pronunciation.
+
+Segment 431:
+Start time: 1423.95
+End time: 1425.52
+Speaker: SPEAKER_02
+Transcript: And they say, oh, I go to China.
+
+Segment 432:
+Start time: 1425.54
+End time: 1426.69
+Speaker: SPEAKER_02
+Transcript:  Like, how long have you lived in China?
+
+Segment 433:
+Start time: 1426.69
+End time: 1428.06
+Speaker: SPEAKER_02
+Transcript: I've been like, I've been here for two weeks.
+
+Segment 434:
+Start time: 1428.68
+End time: 1431.50
+Speaker: SPEAKER_02
+Transcript:  And the answer is, and they say, well, how do you learn?
+
+Segment 435:
+Start time: 1431.64
+End time: 1434.03
+Speaker: SPEAKER_02
+Transcript:  And the answer is I play cards.
+
+Segment 436:
+Start time: 1434.03
+End time: 1435.52
+Speaker: SPEAKER_02
+Transcript: I play cards with people back in Philly.
+
+Segment 437:
+Start time: 1435.66
+End time: 1438.48
+Speaker: SPEAKER_02
+Transcript:  And I invite people over and we play this game called San Gua Sha.
+
+Segment 438:
+Start time: 1438.70
+End time: 1441.07
+Speaker: SPEAKER_02
+Transcript:  And I play this card game.
+
+Segment 439:
+Start time: 1441.07
+End time: 1441.72
+Speaker: SPEAKER_02
+Transcript: And that was the reason why,
+
+Segment 440:
+Start time: 1442.76
+End time: 1445.15
+Speaker: SPEAKER_02
+Transcript:  because I wanted to play cards.
+
+Segment 441:
+Start time: 1445.15
+End time: 1446.54
+Speaker: SPEAKER_02
+Transcript: I didn't really care so much about Chinese.
+
+Segment 442:
+Start time: 1446.92
+End time: 1449.71
+Speaker: SPEAKER_02
+Transcript:  I just, I like cards.
+
+Segment 443:
+Start time: 1449.71
+End time: 1451.50
+Speaker: SPEAKER_02
+Transcript: And this in the US, we only have Texas Hold'em,
+
+Segment 444:
+Start time: 1451.58
+End time: 1453.61
+Speaker: SPEAKER_02
+Transcript:  which I don't play anymore.
+
+Segment 445:
+Start time: 1453.61
+End time: 1456.40
+Speaker: SPEAKER_02
+Transcript: So the only way I'm going to play cards is if I meet
+
+Segment 446:
+Start time: 1457.29
+End time: 1459.44
+Speaker: SPEAKER_02
+Transcript:  other people play cards, the only people that play cards are Chinese people.
+
+Segment 447:
+Start time: 1459.98
+End time: 1464.50
+Speaker: SPEAKER_02
+Transcript:  And they only cards they play are this game called Fight the Landlord.
+
+Segment 448:
+Start time: 1464.76
+End time: 1466.77
+Speaker: SPEAKER_02
+Transcript:  And this game.
+
+Segment 449:
+Start time: 1466.77
+End time: 1468.00
+Speaker: SPEAKER_02
+Transcript: So that's how I learned Chinese.
+
+Segment 450:
+Start time: 1468.78
+End time: 1471.32
+Speaker: SPEAKER_02
+Transcript:  And then so that's how that's the question is learning.
+
+Segment 451:
+Start time: 1471.32
+End time: 1471.42
+Speaker: SPEAKER_02
+Transcript: Right.
+
+Segment 452:
+Start time: 1472.26
+End time: 1475.02
+Speaker: SPEAKER_02
+Transcript:  So people in China say, OK, well, that's the hardest way to learn.
+
+Segment 453:
+Start time: 1475.54
+End time: 1477.59
+Speaker: SPEAKER_02
+Transcript:  I said, no, that's the easiest way to learn.
+
+Segment 454:
+Start time: 1477.59
+End time: 1478.80
+Speaker: SPEAKER_02
+Transcript: That's the only way to learn.
+
+Segment 455:
+Start time: 1479.54
+End time: 1481.11
+Speaker: SPEAKER_02
+Transcript:  Class is for suckers.
+
+Segment 456:
+Start time: 1481.11
+End time: 1484.14
+Speaker: SPEAKER_02
+Transcript: So going to school is not how you learn things as an adult.
+
+Segment 457:
+Start time: 1484.56
+End time: 1487.71
+Speaker: SPEAKER_02
+Transcript:  As a child, again, class is great until about 12.
+
+Segment 458:
+Start time: 1492.68
+End time: 1497.04
+Speaker: SPEAKER_00
+Transcript:  I think I think this kind of reminds me of like my first year of college.
+
+Segment 459:
+Start time: 1497.86
+End time: 1501.22
+Speaker: SPEAKER_00
+Transcript:  So I went to I went to like the US when I was 18.
+
+Segment 460:
+Start time: 1502.38
+End time: 1505.52
+Speaker: SPEAKER_00
+Transcript:  And then like my English, like it's not good at all.
+
+Segment 461:
+Start time: 1505.92
+End time: 1510.54
+Speaker: SPEAKER_00
+Transcript:  So at the time and I only learned from like the books, you know, sort of tests.
+
+Segment 462:
+Start time: 1511.46
+End time: 1516.54
+Speaker: SPEAKER_00
+Transcript:  And then the first year, my college and only I'm the only Chinese people in my dorm.
+
+Segment 463:
+Start time: 1517.08
+End time: 1519.19
+Speaker: SPEAKER_00
+Transcript:  So there's 12 people.
+
+Segment 464:
+Start time: 1519.19
+End time: 1520.08
+Speaker: SPEAKER_00
+Transcript: We're living in a suite.
+
+Segment 465:
+Start time: 1521.94
+End time: 1526.52
+Speaker: SPEAKER_00
+Transcript:  And then and then like the first year, like my English improved so much, you know,
+
+Segment 466:
+Start time: 1526.58
+End time: 1531.54
+Speaker: SPEAKER_00
+Transcript:  like I know a lot of stuff and know how to speak and know how to say those words.
+
+Segment 467:
+Start time: 1531.80
+End time: 1532.14
+Speaker: SPEAKER_00
+Transcript:  Yes.
+
+Segment 468:
+Start time: 1532.14
+End time: 1536.52
+Speaker: SPEAKER_00
+Transcript: Particular way that people understand that instead of like a book English.
+
+Segment 469:
+Start time: 1536.98
+End time: 1544.08
+Speaker: SPEAKER_00
+Transcript:  So, yeah, it's like is exactly you going to do do do the stuff and then you can learn way quickly.
+
+Segment 470:
+Start time: 1545.60
+End time: 1547.63
+Speaker: SPEAKER_00
+Transcript:  Then they just stay at home.
+
+Segment 471:
+Start time: 1548.54
+End time: 1550.36
+Speaker: SPEAKER_02
+Transcript:  Well, let me compare that to my roommate.
+
+Segment 472:
+Start time: 1550.72
+End time: 1555.90
+Speaker: SPEAKER_02
+Transcript:  So my roommate was Chinese when I was living in Philly and she did not want to learn.
+
+Segment 473:
+Start time: 1556.54
+End time: 1558.00
+Speaker: SPEAKER_02
+Transcript:  That was not her goal.
+
+Segment 474:
+Start time: 1558.00
+End time: 1564.34
+Speaker: SPEAKER_02
+Transcript: And she managed to get through two years of grad school in Philadelphia and not learn English at all.
+
+Segment 475:
+Start time: 1565.88
+End time: 1566.06
+Speaker: SPEAKER_02
+Transcript:  Yeah.
+
+Segment 476:
+Start time: 1566.06
+End time: 1569.26
+Speaker: SPEAKER_02
+Transcript: Eating on every test, refusing to mingle.
+
+Segment 477:
+Start time: 1570.54
+End time: 1571.42
+Speaker: SPEAKER_02
+Transcript:  She had other goals in life.
+
+Segment 478:
+Start time: 1571.42
+End time: 1573.35
+Speaker: SPEAKER_02
+Transcript: She wanted to get married in the US.
+
+Segment 479:
+Start time: 1573.35
+End time: 1574.62
+Speaker: SPEAKER_02
+Transcript: That was really her goal.
+
+Segment 480:
+Start time: 1575.66
+End time: 1578.92
+Speaker: SPEAKER_02
+Transcript:  And to a Chinese person for reasons.
+
+Segment 481:
+Start time: 1579.78
+End time: 1585.98
+Speaker: SPEAKER_02
+Transcript:  And so I'm saying, like, don't just say because you showed up here is that's why you won.
+
+Segment 482:
+Start time: 1587.20
+End time: 1587.83
+Speaker: SPEAKER_00
+Transcript:  Right.
+
+Segment 483:
+Start time: 1587.83
+End time: 1590.02
+Speaker: SPEAKER_02
+Transcript: So Michael didn't win because you just landed here.
+
+Segment 484:
+Start time: 1590.54
+End time: 1591.26
+Speaker: SPEAKER_02
+Transcript:  You land.
+
+Segment 485:
+Start time: 1591.26
+End time: 1594.03
+Speaker: SPEAKER_02
+Transcript: You won because you decided that you're going to win.
+
+Segment 486:
+Start time: 1595.54
+End time: 1597.43
+Speaker: SPEAKER_00
+Transcript:  You're right.
+
+Segment 487:
+Start time: 1597.43
+End time: 1598.37
+Speaker: SPEAKER_01
+Transcript: Right.
+
+Segment 488:
+Start time: 1598.37
+End time: 1598.59
+Speaker: SPEAKER_01
+Transcript: Yeah.
+
+Segment 489:
+Start time: 1598.59
+End time: 1599.42
+Speaker: SPEAKER_01
+Transcript: And you engaged.
+
+Segment 490:
+Start time: 1600.54
+End time: 1603.93
+Speaker: SPEAKER_01
+Transcript:  You could have just went and found a bunch of other Chinese students and.
+
+Segment 491:
+Start time: 1606.07
+End time: 1606.37
+Speaker: SPEAKER_00
+Transcript:  Yeah.
+
+Segment 492:
+Start time: 1606.37
+End time: 1607.44
+Speaker: SPEAKER_00
+Transcript: But that would be too sad for me.
+
+Segment 493:
+Start time: 1607.54
+End time: 1608.47
+Speaker: SPEAKER_00
+Transcript:  You know, come in every day.
+
+Segment 494:
+Start time: 1608.47
+End time: 1609.45
+Speaker: SPEAKER_00
+Transcript: Too sad.
+
+Segment 495:
+Start time: 1610.92
+End time: 1613.43
+Speaker: SPEAKER_00
+Transcript:  No, I mean, that would be like, yes.
+
+Segment 496:
+Start time: 1613.43
+End time: 1617.98
+Speaker: SPEAKER_00
+Transcript: So I wanted to, you know, it's a more I wanted to know, like, their life.
+
+Segment 497:
+Start time: 1618.54
+End time: 1619.67
+Speaker: SPEAKER_00
+Transcript:  You know, it's so different at the time.
+
+Segment 498:
+Start time: 1619.67
+End time: 1621.00
+Speaker: SPEAKER_00
+Transcript: I was really curious.
+
+Segment 499:
+Start time: 1621.72
+End time: 1626.88
+Speaker: SPEAKER_00
+Transcript:  And then and then I was like, I wanted to join their conversation instead of just sit in my room.
+
+Segment 500:
+Start time: 1628.08
+End time: 1633.04
+Speaker: SPEAKER_00
+Transcript:  So I know a lot of friends that, you know, they kind of afraid, you know, of of new environment.
+
+Segment 501:
+Start time: 1633.64
+End time: 1639.42
+Speaker: SPEAKER_00
+Transcript:  And then so so they just, you know, kind of have this habit, not talking too much sometimes.
+
+Segment 502:
+Start time: 1640.30
+End time: 1644.54
+Speaker: SPEAKER_00
+Transcript:  And which I think is really bad for themselves, like for their personal involvement.
+
+Segment 503:
+Start time: 1644.56
+End time: 1645.18
+Speaker: SPEAKER_00
+Transcript:  Yeah.
+
+Segment 504:
+Start time: 1645.18
+End time: 1649.81
+Speaker: SPEAKER_00
+Transcript: Yeah.
+
+Segment 505:
+Start time: 1649.81
+End time: 1651.08
+Speaker: SPEAKER_00
+Transcript: Right.
+
+Segment 506:
+Start time: 1651.08
+End time: 1652.60
+Speaker: SPEAKER_00
+Transcript: So maybe less like after.
+
+Segment 507:
+Start time: 1654.14
+End time: 1661.44
+Speaker: SPEAKER_00
+Transcript:  So since you introduced like the learning process of getting to know blockchain and you learn that really fast,
+
+Segment 508:
+Start time: 1662.38
+End time: 1665.07
+Speaker: SPEAKER_00
+Transcript:  like you came out with the ERC 721, which is so groundbreaking.
+
+Segment 509:
+Start time: 1666.96
+End time: 1678.02
+Speaker: SPEAKER_00
+Transcript:  And I'm actually really curious about like the process of, you know, how do you what kind of consideration that went into it when you're trying to build the FT standards?
+
+Segment 510:
+Start time: 1678.78
+End time: 1686.00
+Speaker: SPEAKER_00
+Transcript:  And did you know at the time that this will be like such a having such a big impact and it becomes so popular afterwards?
+
+Segment 511:
+Start time: 1687.12
+End time: 1689.90
+Speaker: SPEAKER_00
+Transcript:  And you want to talk more about that?
+
+Segment 512:
+Start time: 1689.90
+End time: 1690.34
+Speaker: SPEAKER_00
+Transcript: Yeah.
+
+Segment 513:
+Start time: 1690.86
+End time: 1691.22
+Speaker: SPEAKER_02
+Transcript:  Yes.
+
+Segment 514:
+Start time: 1691.22
+End time: 1694.54
+Speaker: SPEAKER_02
+Transcript: So, yes, I did expect this would be this big.
+
+Segment 515:
+Start time: 1694.68
+End time: 1704.84
+Speaker: SPEAKER_02
+Transcript:  I expect it to be bigger in different ways, in boring ways, not like money ways or getting rich ways, just pervasive pervasiveness.
+
+Segment 516:
+Start time: 1705.96
+End time: 1708.52
+Speaker: SPEAKER_02
+Transcript:  And that's my vision for NFT is pretty expensive.
+
+Segment 517:
+Start time: 1708.98
+End time: 1711.95
+Speaker: SPEAKER_02
+Transcript:  I think it's going to change commerce, you know, wholly.
+
+Segment 518:
+Start time: 1713.62
+End time: 1716.06
+Speaker: SPEAKER_02
+Transcript:  But in ways that people don't even notice, which is fine.
+
+Segment 519:
+Start time: 1717.04
+End time: 1718.98
+Speaker: SPEAKER_02
+Transcript:  And so that was that was what I thought about it coming in.
+
+Segment 520:
+Start time: 1719.54
+End time: 1721.54
+Speaker: SPEAKER_02
+Transcript:  The process, the paper itself.
+
+Segment 521:
+Start time: 1721.60
+End time: 1728.46
+Speaker: SPEAKER_02
+Transcript:  So we're talking about this paper called ERC 721, which is the specification for NFTs on blockchain.
+
+Segment 522:
+Start time: 1729.74
+End time: 1735.36
+Speaker: SPEAKER_02
+Transcript:  You can actually do NFTs without blockchain, but these are the ones that are on blockchain, which is mostly where people recognize them.
+
+Segment 523:
+Start time: 1736.54
+End time: 1741.24
+Speaker: SPEAKER_02
+Transcript:  And so my contribution academically here is to help write this paper.
+
+Segment 524:
+Start time: 1741.54
+End time: 1742.27
+Speaker: SPEAKER_02
+Transcript:  I'm the lead author of this paper.
+
+Segment 525:
+Start time: 1742.27
+End time: 1742.93
+Speaker: SPEAKER_02
+Transcript: We have four authors.
+
+Segment 526:
+Start time: 1743.54
+End time: 1747.00
+Speaker: SPEAKER_02
+Transcript:  And the paper just explains technically, how do you do this on Ethereum?
+
+Segment 527:
+Start time: 1747.54
+End time: 1749.63
+Speaker: SPEAKER_02
+Transcript:  And then there's a lot of explanation on why we made these choices.
+
+Segment 528:
+Start time: 1750.70
+End time: 1752.53
+Speaker: SPEAKER_02
+Transcript:  Now, that's the paper.
+
+Segment 529:
+Start time: 1752.53
+End time: 1754.06
+Speaker: SPEAKER_02
+Transcript: The paper is it's OK.
+
+Segment 530:
+Start time: 1754.58
+End time: 1759.54
+Speaker: SPEAKER_02
+Transcript:  And, you know, if I could if I could write it again by myself, I would have, you know, there's things I would do differently.
+
+Segment 531:
+Start time: 1759.84
+End time: 1762.02
+Speaker: SPEAKER_02
+Transcript:  It's not it's not perfect and there's not going to be a version two.
+
+Segment 532:
+Start time: 1763.16
+End time: 1768.16
+Speaker: SPEAKER_02
+Transcript:  The reason why is because the whole point of this paper is to make everybody agree on the specification.
+
+Segment 533:
+Start time: 1768.80
+End time: 1775.54
+Speaker: SPEAKER_02
+Transcript:  So the cool thing about this paper is that there is not a competing one and that people that want to do this thing are all compatible.
+
+Segment 534:
+Start time: 1776.27
+End time: 1778.50
+Speaker: SPEAKER_02
+Transcript:  So if you're making one of these things, I'm making one.
+
+Segment 535:
+Start time: 1778.94
+End time: 1782.14
+Speaker: SPEAKER_02
+Transcript:  They can both be traded with each other using compatible software.
+
+Segment 536:
+Start time: 1782.74
+End time: 1786.14
+Speaker: SPEAKER_02
+Transcript:  These are called marketplaces or places that you buy and sell NFTs.
+
+Segment 537:
+Start time: 1786.86
+End time: 1791.54
+Speaker: SPEAKER_02
+Transcript:  So really, the process here was a little bit technical, like making it work and testing.
+
+Segment 538:
+Start time: 1791.64
+End time: 1794.09
+Speaker: SPEAKER_02
+Transcript:  And that was that was half of it.
+
+Segment 539:
+Start time: 1794.09
+End time: 1795.34
+Speaker: SPEAKER_02
+Transcript: The other half was entirely political.
+
+Segment 540:
+Start time: 1796.60
+End time: 1805.20
+Speaker: SPEAKER_02
+Transcript:  Getting people to agree and to adopt this, this is the only standard, I believe, on Ethereum at the time or maybe still that was accepted unanimously.
+
+Segment 541:
+Start time: 1806.26
+End time: 1807.59
+Speaker: SPEAKER_02
+Transcript:  So everybody agreed.
+
+Segment 542:
+Start time: 1807.59
+End time: 1811.10
+Speaker: SPEAKER_02
+Transcript: So everybody who participated agreed that this was the way forward for this.
+
+Segment 543:
+Start time: 1811.80
+End time: 1818.54
+Speaker: SPEAKER_02
+Transcript:  And that was the accomplishment, because if you want things to be compatible, you don't want somebody forking you or stepping aside with a competing standard.
+
+Segment 544:
+Start time: 1819.24
+End time: 1823.48
+Speaker: SPEAKER_02
+Transcript:  So the process here, the way that I learned and the way that I did this, I did a couple of things.
+
+Segment 545:
+Start time: 1825.72
+End time: 1828.39
+Speaker: SPEAKER_02
+Transcript:  Everybody was here and they wanted this to proceed.
+
+Segment 546:
+Start time: 1828.39
+End time: 1830.54
+Speaker: SPEAKER_02
+Transcript: Everybody wanted NFTs in this space.
+
+Segment 547:
+Start time: 1831.54
+End time: 1836.14
+Speaker: SPEAKER_02
+Transcript:  Everybody in this space of developers with Ethereum making blockchain stuff.
+
+Segment 548:
+Start time: 1838.33
+End time: 1841.24
+Speaker: SPEAKER_02
+Transcript:  In the scene that I was in, they wanted a path forward for NFTs.
+
+Segment 549:
+Start time: 1842.30
+End time: 1843.19
+Speaker: SPEAKER_02
+Transcript:  And you're not seeing my hands.
+
+Segment 550:
+Start time: 1843.19
+End time: 1844.88
+Speaker: SPEAKER_02
+Transcript: I'm nearly getting hit the conversation area.
+
+Segment 551:
+Start time: 1847.53
+End time: 1850.52
+Speaker: SPEAKER_02
+Transcript:  So everybody was here and they agreed that they wanted a path forward.
+
+Segment 552:
+Start time: 1851.40
+End time: 1858.38
+Speaker: SPEAKER_02
+Transcript:  Problem was this process was moving too slowly and some people were embarrassed to talk because they were new here.
+
+Segment 553:
+Start time: 1859.40
+End time: 1861.15
+Speaker: SPEAKER_02
+Transcript:  So this is this is the pitch I gave.
+
+Segment 554:
+Start time: 1861.15
+End time: 1865.46
+Speaker: SPEAKER_02
+Transcript: They went from not knowing anything in the scene to being in the middle of NFTs.
+
+Segment 555:
+Start time: 1866.22
+End time: 1866.93
+Speaker: SPEAKER_02
+Transcript:  Here's my pitch.
+
+Segment 556:
+Start time: 1866.93
+End time: 1869.54
+Speaker: SPEAKER_02
+Transcript: I said, my pitch is I'm going to iterate quickly on this.
+
+Segment 557:
+Start time: 1869.54
+End time: 1872.48
+Speaker: SPEAKER_02
+Transcript:  We're going to make new drafts every time there's an improvement.
+
+Segment 558:
+Start time: 1873.28
+End time: 1877.26
+Speaker: SPEAKER_02
+Transcript:  So we're going to get to the goal as fast as possible because we're going to keep iterating.
+
+Segment 559:
+Start time: 1878.36
+End time: 1879.75
+Speaker: SPEAKER_02
+Transcript:  And I have a lot of time for this.
+
+Segment 560:
+Start time: 1879.75
+End time: 1880.53
+Speaker: SPEAKER_02
+Transcript: I'm going to dedicate time.
+
+Segment 561:
+Start time: 1880.53
+End time: 1882.42
+Speaker: SPEAKER_02
+Transcript: I'm going to work any time zone to get this done.
+
+Segment 562:
+Start time: 1882.88
+End time: 1885.55
+Speaker: SPEAKER_02
+Transcript:  And number two is I'm going to give all of you my phone number.
+
+Segment 563:
+Start time: 1885.55
+End time: 1886.92
+Speaker: SPEAKER_02
+Transcript: So I'm going to talk to you individually.
+
+Segment 564:
+Start time: 1887.56
+End time: 1890.49
+Speaker: SPEAKER_02
+Transcript:  If there's anything you want to say, I will hear every one of your ideas.
+
+Segment 565:
+Start time: 1892.08
+End time: 1900.78
+Speaker: SPEAKER_02
+Transcript:  Sometimes as programmers, it's very easy to get theoretical and like this is the best approach or all the ideas suck because they're not mine.
+
+Segment 566:
+Start time: 1901.82
+End time: 1905.42
+Speaker: SPEAKER_02
+Transcript:  And some of that is rooted in the fact that some engineers don't communicate enough.
+
+Segment 567:
+Start time: 1906.04
+End time: 1907.48
+Speaker: SPEAKER_02
+Transcript:  So they're not sharing their ideas.
+
+Segment 568:
+Start time: 1907.48
+End time: 1912.64
+Speaker: SPEAKER_02
+Transcript: So really, if you if it's called not invented here syndrome and there's places that are famous for it.
+
+Segment 569:
+Start time: 1913.98
+End time: 1918.84
+Speaker: SPEAKER_02
+Transcript:  I think this speaks to a lower human wanting to communicate.
+
+Segment 570:
+Start time: 1919.76
+End time: 1924.26
+Speaker: SPEAKER_02
+Transcript:  So as an engineer, it manifests as, oh, I'm not I want to be communicating.
+
+Segment 571:
+Start time: 1924.58
+End time: 1931.08
+Speaker: SPEAKER_02
+Transcript:  So the way I communicate is by having this complete product, this idea that I deliver myself and that is my communication.
+
+Segment 572:
+Start time: 1931.54
+End time: 1934.29
+Speaker: SPEAKER_02
+Transcript:  And I'm not going to share anything until that.
+
+Segment 573:
+Start time: 1934.29
+End time: 1934.43
+Speaker: SPEAKER_02
+Transcript: And.
+
+Segment 574:
+Start time: 1935.54
+End time: 1944.20
+Speaker: SPEAKER_02
+Transcript:  Maybe that's maybe that's too late or whatever, but on the outside, the way you see that is this is somebody who's not a team player, they're not communicating and they're not and they're reinventing everything all the time.
+
+Segment 575:
+Start time: 1945.06
+End time: 1947.51
+Speaker: SPEAKER_02
+Transcript:  But it's the same human feeling.
+
+Segment 576:
+Start time: 1947.51
+End time: 1954.28
+Speaker: SPEAKER_02
+Transcript: Another way is if you can pull these people out of the tunnel and talk to them, then you can get the same ideas earlier.
+
+Segment 577:
+Start time: 1956.60
+End time: 1960.46
+Speaker: SPEAKER_02
+Transcript:  And put them into a product that more people are going to use rather than waiting for them to finish.
+
+Segment 578:
+Start time: 1961.62
+End time: 1962.46
+Speaker: SPEAKER_02
+Transcript:  I think it's the same thing.
+
+Segment 579:
+Start time: 1962.46
+End time: 1969.64
+Speaker: SPEAKER_02
+Transcript: I think this is a engineer specific way of manifestation of I want to communicate is not ends up is not invented here.
+
+Segment 580:
+Start time: 1971.32
+End time: 1972.99
+Speaker: SPEAKER_02
+Transcript:  So I sort of recognize that because I saw it happening.
+
+Segment 581:
+Start time: 1972.99
+End time: 1977.18
+Speaker: SPEAKER_02
+Transcript: I saw some people taking ideas, burrowing away, working on a big project.
+
+Segment 582:
+Start time: 1977.54
+End time: 1983.70
+Speaker: SPEAKER_02
+Transcript:  And I said, OK, if you have these ideas and you don't want to share them to publicly in a wide audience, just call me.
+
+Segment 583:
+Start time: 1984.54
+End time: 1985.99
+Speaker: SPEAKER_02
+Transcript:  Here's my phone number.
+
+Segment 584:
+Start time: 1985.99
+End time: 1988.64
+Speaker: SPEAKER_02
+Transcript: Anybody on the scene of NFTs from 2018 has my phone number.
+
+Segment 585:
+Start time: 1989.54
+End time: 1990.18
+Speaker: SPEAKER_02
+Transcript:  And we talk through it.
+
+Segment 586:
+Start time: 1993.56
+End time: 2004.30
+Speaker: SPEAKER_02
+Transcript:  So by talking to people on the phone, making drafts constantly, I was able to navigate this not to the best product, not to how I would have wrote it myself, not to the thing that everybody needed, but instead to the thing that I wanted to do.
+
+Segment 587:
+Start time: 2009.22
+End time: 2025.02
+Speaker: SPEAKER_02
+Transcript:  So by talking to people on the phone, making drafts constantly, I was able to navigate this not to the best product, not to how I would have wrote it myself, not to the thing that everybody needed, but instead to the thing that had zero descent and was good enough to publish.
+
+Segment 588:
+Start time: 2026.24
+End time: 2027.61
+Speaker: SPEAKER_02
+Transcript:  And then as fast as possible.
+
+Segment 589:
+Start time: 2029.68
+End time: 2032.03
+Speaker: SPEAKER_02
+Transcript:  And that was the product.
+
+Segment 590:
+Start time: 2032.03
+End time: 2034.39
+Speaker: SPEAKER_02
+Transcript: Delivered fast with everybody agreeing.
+
+Segment 591:
+Start time: 2034.39
+End time: 2036.59
+Speaker: SPEAKER_02
+Transcript: And it's been around and it'll be around for years.
+
+Segment 592:
+Start time: 2036.59
+End time: 2038.68
+Speaker: SPEAKER_02
+Transcript: And it unlocked what we got.
+
+Segment 593:
+Start time: 2040.92
+End time: 2043.52
+Speaker: SPEAKER_00
+Transcript:  That is actually pretty impressive.
+
+Segment 594:
+Start time: 2043.72
+End time: 2058.54
+Speaker: SPEAKER_00
+Transcript:  So because I for like for the first time when I was in the trying to learn stuff and I learned the whole blockchain, join a community, it was my sense was that there are so many smart developers like working there.
+
+Segment 595:
+Start time: 2059.52
+End time: 2067.24
+Speaker: SPEAKER_00
+Transcript:  And they have to be smart to work on some of the projects you have to have like, you know, become a Polymath to learn stuff by yourself.
+
+Segment 596:
+Start time: 2067.86
+End time: 2078.52
+Speaker: SPEAKER_00
+Transcript:  And then, yeah, I'm not sure like, you know, like after you see this stuff like the whole process, that's actually what drove, you know, to put them together and drove them into progress.
+
+Segment 597:
+Start time: 2079.12
+End time: 2087.06
+Speaker: SPEAKER_00
+Transcript:  So because like open source community as such, you know, is is is at the same time is pretty creative, but it's also scattered.
+
+Segment 598:
+Start time: 2087.82
+End time: 2090.00
+Speaker: SPEAKER_00
+Transcript:  So like, so how do you build stuff?
+
+Segment 599:
+Start time: 2090.00
+End time: 2099.50
+Speaker: SPEAKER_00
+Transcript: So you still need like what you did for the NFT community and also the process, having that process to to to make it work.
+
+Segment 600:
+Start time: 2100.76
+End time: 2101.30
+Speaker: SPEAKER_00
+Transcript:  Yeah.
+
+Segment 601:
+Start time: 2101.30
+End time: 2119.24
+Speaker: SPEAKER_00
+Transcript: And also like even even so, like, is there any right now like a particular aspect of blockchain that you or NFT that you currently picks your curiosity or is it kind of is your current research subject of research that you're trying to work on?
+
+Segment 602:
+Start time: 2120.54
+End time: 2120.74
+Speaker: SPEAKER_02
+Transcript:  Yep.
+
+Segment 603:
+Start time: 2120.74
+End time: 2128.63
+Speaker: SPEAKER_02
+Transcript: For NFTs, I'm focused on the long term, which is just making better products in the real world.
+
+Segment 604:
+Start time: 2128.63
+End time: 2132.72
+Speaker: SPEAKER_02
+Transcript: So the digital NFTs are less interesting to me.
+
+Segment 605:
+Start time: 2132.72
+End time: 2134.30
+Speaker: SPEAKER_02
+Transcript: Physical NFTs are way more interesting.
+
+Segment 606:
+Start time: 2135.52
+End time: 2143.37
+Speaker: SPEAKER_02
+Transcript:  And so you buy a thing and then you can verify that it's authentic or you can verify that it seller claims.
+
+Segment 607:
+Start time: 2143.37
+End time: 2148.54
+Speaker: SPEAKER_02
+Transcript: So I spelled out basically my goal is that I want to make things that you buy able to be verified.
+
+Segment 608:
+Start time: 2149.94
+End time: 2153.14
+Speaker: SPEAKER_02
+Transcript:  You can verify the authenticity and the seller claims.
+
+Segment 609:
+Start time: 2153.14
+End time: 2155.11
+Speaker: SPEAKER_02
+Transcript: And that's that's really wide ranging.
+
+Segment 610:
+Start time: 2155.11
+End time: 2158.23
+Speaker: SPEAKER_02
+Transcript: So that includes a lot of different angles.
+
+Segment 611:
+Start time: 2158.23
+End time: 2164.54
+Speaker: SPEAKER_02
+Transcript: That includes checking the contents of things, verifying, you know, if you buy something and it says, oh, this is carbon neutral.
+
+Segment 612:
+Start time: 2166.04
+End time: 2167.34
+Speaker: SPEAKER_02
+Transcript:  It's really easy to just put a sticker.
+
+Segment 613:
+Start time: 2167.34
+End time: 2169.41
+Speaker: SPEAKER_02
+Transcript: This is carbon neutral.
+
+Segment 614:
+Start time: 2169.41
+End time: 2171.03
+Speaker: SPEAKER_02
+Transcript: And I don't care specifically about carbon neutral.
+
+Segment 615:
+Start time: 2171.03
+End time: 2171.97
+Speaker: SPEAKER_02
+Transcript: This is just one example.
+
+Segment 616:
+Start time: 2171.97
+End time: 2173.81
+Speaker: SPEAKER_02
+Transcript: So you buy a thing that says carbon neutral.
+
+Segment 617:
+Start time: 2173.81
+End time: 2176.51
+Speaker: SPEAKER_02
+Transcript: Well, it would be better if there was a QR code.
+
+Segment 618:
+Start time: 2176.51
+End time: 2181.50
+Speaker: SPEAKER_02
+Transcript: And the person who certified that as carbon neutral said that not just the person selling you the thing.
+
+Segment 619:
+Start time: 2182.94
+End time: 2185.02
+Speaker: SPEAKER_02
+Transcript:  So.
+
+Segment 620:
+Start time: 2185.02
+End time: 2192.69
+Speaker: SPEAKER_02
+Transcript: You know, when you buy stocks, when you buy equities, the equities are registered and.
+
+Segment 621:
+Start time: 2192.69
+End time: 2197.32
+Speaker: SPEAKER_02
+Transcript: You can verify there's a website in the United States for all the exchanges and in Hong Kong and other places.
+
+Segment 622:
+Start time: 2197.32
+End time: 2198.54
+Speaker: SPEAKER_02
+Transcript: And you can say this is a registered security.
+
+Segment 623:
+Start time: 2200.66
+End time: 2212.41
+Speaker: SPEAKER_02
+Transcript:  When you see that this is a registered security and you know all the rules that are attached to securities, you know, all the anti-fraud things, you can be confident that you're buying a legitimate thing.
+
+Segment 624:
+Start time: 2212.41
+End time: 2216.36
+Speaker: SPEAKER_02
+Transcript: But don't listen to the person calling you to self-certify.
+
+Segment 625:
+Start time: 2216.36
+End time: 2217.98
+Speaker: SPEAKER_02
+Transcript: That's not going to.
+
+Segment 626:
+Start time: 2217.98
+End time: 2221.36
+Speaker: SPEAKER_02
+Transcript: They're not a reliable person to be certifying their stuff.
+
+Segment 627:
+Start time: 2221.36
+End time: 2222.54
+Speaker: SPEAKER_02
+Transcript: Certification should be third party.
+
+Segment 628:
+Start time: 2224.14
+End time: 2228.37
+Speaker: SPEAKER_02
+Transcript:  So when you buy stuff, the certifications should be verifiable.
+
+Segment 629:
+Start time: 2228.37
+End time: 2231.54
+Speaker: SPEAKER_02
+Transcript: This whole process of verifying things ties directly into NFTs.
+
+Segment 630:
+Start time: 2234.12
+End time: 2235.38
+Speaker: SPEAKER_00
+Transcript:  Right.
+
+Segment 631:
+Start time: 2235.38
+End time: 2241.95
+Speaker: SPEAKER_00
+Transcript: And I think there are some of the concept or because I buy in China.
+
+Segment 632:
+Start time: 2241.95
+End time: 2249.14
+Speaker: SPEAKER_00
+Transcript: Like I sometime I saw like, I think a couple I don't remember what, but I think it's a milk or something.
+
+Segment 633:
+Start time: 2249.14
+End time: 2250.54
+Speaker: SPEAKER_00
+Transcript: They already starting to doing that kind of stuff.
+
+Segment 634:
+Start time: 2251.54
+End time: 2259.17
+Speaker: SPEAKER_00
+Transcript:  But I'm not sure that they are really like using like, let's say working on Ethereum or whatever public blockchain.
+
+Segment 635:
+Start time: 2259.17
+End time: 2274.54
+Speaker: SPEAKER_00
+Transcript: But they kind of like embracing the concept of trying to, you know, just get verified directly from the source and to have that, you know, so you're more safe and having more security on what you kind of buy and purchase.
+
+Segment 636:
+Start time: 2274.70
+End time: 2278.66
+Speaker: SPEAKER_02
+Transcript:  I think China is a great place to for the next phase of NFTs.
+
+Segment 637:
+Start time: 2278.66
+End time: 2279.60
+Speaker: SPEAKER_02
+Transcript: I think that would be great.
+
+Segment 638:
+Start time: 2279.60
+End time: 2283.03
+Speaker: SPEAKER_02
+Transcript: I was just in China and I did not see that on any milk that I bought.
+
+Segment 639:
+Start time: 2283.03
+End time: 2284.53
+Speaker: SPEAKER_02
+Transcript: I would love to see that.
+
+Segment 640:
+Start time: 2284.53
+End time: 2289.55
+Speaker: SPEAKER_02
+Transcript: And China's got this nice China has a reputation for food quality issues.
+
+Segment 641:
+Start time: 2289.55
+End time: 2300.54
+Speaker: SPEAKER_02
+Transcript: And yeah, I think I don't know if it's in the five year plan now, but I China can pick up a focus on these things and work very hard across verticals to achieve the solution.
+
+Segment 642:
+Start time: 2301.60
+End time: 2304.68
+Speaker: SPEAKER_02
+Transcript:  So that's why I think China is good for this.
+
+Segment 643:
+Start time: 2304.68
+End time: 2311.05
+Speaker: SPEAKER_02
+Transcript: The US is interesting, too, but it's much more fragmented and it can take many more years to achieve something like this.
+
+Segment 644:
+Start time: 2311.05
+End time: 2313.51
+Speaker: SPEAKER_02
+Transcript: And the result will also be fragmented.
+
+Segment 645:
+Start time: 2313.51
+End time: 2315.95
+Speaker: SPEAKER_02
+Transcript: So you won't have one thing that works in a lot of places.
+
+Segment 646:
+Start time: 2315.95
+End time: 2320.44
+Speaker: SPEAKER_02
+Transcript: China, it will work with WeChat and it will work for everything, you know, in one month.
+
+Segment 647:
+Start time: 2320.54
+End time: 2322.40
+Speaker: SPEAKER_00
+Transcript:  Yeah, right.
+
+Segment 648:
+Start time: 2322.40
+End time: 2324.07
+Speaker: SPEAKER_00
+Transcript: And then people get in trouble.
+
+Segment 649:
+Start time: 2324.07
+End time: 2327.05
+Speaker: SPEAKER_02
+Transcript: And if they make milk powder, then they kill you.
+
+Segment 650:
+Start time: 2327.05
+End time: 2327.99
+Speaker: SPEAKER_02
+Transcript: They literally kill you.
+
+Segment 651:
+Start time: 2327.99
+End time: 2328.67
+Speaker: SPEAKER_02
+Transcript: Remember that?
+
+Segment 652:
+Start time: 2328.67
+End time: 2329.13
+Speaker: SPEAKER_00
+Transcript: Yeah.
+
+Segment 653:
+Start time: 2329.13
+End time: 2329.41
+Speaker: SPEAKER_00
+Transcript: Yeah.
+
+Segment 654:
+Start time: 2329.41
+End time: 2329.68
+Speaker: SPEAKER_00
+Transcript: Right.
+
+Segment 655:
+Start time: 2329.68
+End time: 2330.24
+Speaker: SPEAKER_00
+Transcript: Right.
+
+Segment 656:
+Start time: 2330.24
+End time: 2331.48
+Speaker: SPEAKER_02
+Transcript: Make milk powder with bad stuff in it.
+
+Segment 657:
+Start time: 2331.48
+End time: 2332.38
+Speaker: SPEAKER_02
+Transcript: They literally execute you.
+
+Segment 658:
+Start time: 2333.42
+End time: 2334.56
+Speaker: SPEAKER_00
+Transcript:  Yeah.
+
+Segment 659:
+Start time: 2334.56
+End time: 2334.78
+Speaker: SPEAKER_00
+Transcript: Yeah.
+
+Segment 660:
+Start time: 2334.78
+End time: 2341.31
+Speaker: SPEAKER_00
+Transcript: There was like a huge accident, like I think it's 10 years ago for like the baby milk powder.
+
+Segment 661:
+Start time: 2341.31
+End time: 2348.85
+Speaker: SPEAKER_00
+Transcript: And then and then that kind of like just bring a lot of social like angers towards the whole industry.
+
+Segment 662:
+Start time: 2348.85
+End time: 2349.09
+Speaker: SPEAKER_00
+Transcript: Yeah.
+
+Segment 663:
+Start time: 2349.09
+End time: 2349.87
+Speaker: SPEAKER_02
+Transcript: Yeah.
+
+Segment 664:
+Start time: 2349.87
+End time: 2357.54
+Speaker: SPEAKER_02
+Transcript: So you got to you got to harness that anger to to make radical, you know, difficult decisions like requiring industry to do things, make better products.
+
+Segment 665:
+Start time: 2358.64
+End time: 2364.30
+Speaker: SPEAKER_02
+Transcript:  But in the US, you can see all the time there's fraud and there's rarely any consequences at the highest level.
+
+Segment 666:
+Start time: 2364.30
+End time: 2366.97
+Speaker: SPEAKER_00
+Transcript: Right.
+
+Segment 667:
+Start time: 2366.97
+End time: 2370.47
+Speaker: SPEAKER_02
+Transcript: But, yeah, so the whole point of NFT in this scenario is accountability.
+
+Segment 668:
+Start time: 2370.47
+End time: 2374.35
+Speaker: SPEAKER_02
+Transcript: So the question is, your question is, where do I look to the future for the NFT?
+
+Segment 669:
+Start time: 2374.35
+End time: 2380.68
+Speaker: SPEAKER_02
+Transcript: The future of NFT is accountability for commerce in general, big types of commerce.
+
+Segment 670:
+Start time: 2380.68
+End time: 2385.16
+Speaker: SPEAKER_02
+Transcript: There's also going to be a lot of performance tickets that are going to be NFTs.
+
+Segment 671:
+Start time: 2385.82
+End time: 2386.34
+Speaker: SPEAKER_02
+Transcript:  Yeah.
+
+Segment 672:
+Start time: 2386.34
+End time: 2391.78
+Speaker: SPEAKER_02
+Transcript: That's going to be a major consumer facing application, specifically in the entertainment industry.
+
+Segment 673:
+Start time: 2391.78
+End time: 2396.63
+Speaker: SPEAKER_02
+Transcript: You're going to see a lot more connection between individual fans and artists.
+
+Segment 674:
+Start time: 2396.63
+End time: 2406.34
+Speaker: SPEAKER_02
+Transcript: And that's going to lead to all the things we've been doing on with digital NFTs and pictures of animals and parties for people that have pictures of animals.
+
+Segment 675:
+Start time: 2406.34
+End time: 2412.54
+Speaker: SPEAKER_02
+Transcript: All that stuff, all the best parts of that, if there's any, are going to directly come to mainstream with people that go to concerts.
+
+Segment 676:
+Start time: 2414.44
+End time: 2415.20
+Speaker: SPEAKER_02
+Transcript:  Edit that out.
+
+Segment 677:
+Start time: 2415.20
+End time: 2416.08
+Speaker: SPEAKER_02
+Transcript: Edit that out.
+
+Segment 678:
+Start time: 2416.08
+End time: 2418.47
+Speaker: SPEAKER_02
+Transcript: People that go to creative performances.
+
+Segment 679:
+Start time: 2418.47
+End time: 2426.36
+Speaker: SPEAKER_02
+Transcript: These names in these industries are working for creative performances, are going to have all new types of engagement.
+
+Segment 680:
+Start time: 2426.36
+End time: 2427.54
+Speaker: SPEAKER_02
+Transcript: And this is really good stuff.
+
+Segment 681:
+Start time: 2427.54
+End time: 2427.64
+Speaker: SPEAKER_02
+Transcript:  Yeah.
+
+Segment 682:
+Start time: 2459.66
+End time: 2462.04
+Speaker: SPEAKER_01
+Transcript:  How did you get engaged with them over time?
+
+Segment 683:
+Start time: 2462.04
+End time: 2464.33
+Speaker: SPEAKER_01
+Transcript: And what are your core principles?
+
+Segment 684:
+Start time: 2464.33
+End time: 2479.52
+Speaker: SPEAKER_01
+Transcript: Because you have a really active GitHub with all kinds of stuff ranging from, I don't know, things for radios to apps to, I guess, somewhere in there, your Solidity Hello World.
+
+Segment 685:
+Start time: 2481.60
+End time: 2487.25
+Speaker: SPEAKER_02
+Transcript:  So my first experience with open source, with Linux in high school.
+
+Segment 686:
+Start time: 2487.25
+End time: 2496.61
+Speaker: SPEAKER_02
+Transcript: So a friend who now also works at Google got me onto, it was either Red Hat or Gentoo or something, or whatever the other version of Red Hat was called back then.
+
+Segment 687:
+Start time: 2496.61
+End time: 2497.54
+Speaker: SPEAKER_02
+Transcript: And Fedora?
+
+Segment 688:
+Start time: 2497.54
+End time: 2499.20
+Speaker: SPEAKER_02
+Transcript: No, it was before Fedora.
+
+Segment 689:
+Start time: 2499.20
+End time: 2501.52
+Speaker: SPEAKER_02
+Transcript: And this is my first experience with open source.
+
+Segment 690:
+Start time: 2501.88
+End time: 2508.53
+Speaker: SPEAKER_02
+Transcript:  So I had a computer that was running Windows and I decided I'm going to scrap it and I'm going to do Linux.
+
+Segment 691:
+Start time: 2508.53
+End time: 2512.21
+Speaker: SPEAKER_02
+Transcript: And there's an XKCD for this, but basically it gets worse and worse as you're installing it.
+
+Segment 692:
+Start time: 2512.21
+End time: 2516.21
+Speaker: SPEAKER_02
+Transcript: And this is what happened to me.
+
+Segment 693:
+Start time: 2516.21
+End time: 2526.54
+Speaker: SPEAKER_02
+Transcript: So I'm trying to install Linux, but halfway through, I realized that I didn't have internet access because the module, the kernel module for the ethernet driver didn't work.
+
+Segment 694:
+Start time: 2526.66
+End time: 2533.97
+Speaker: SPEAKER_02
+Transcript:  And it was the RT 87 something, really 8739, a really popular ethernet driver.
+
+Segment 695:
+Start time: 2533.97
+End time: 2534.71
+Speaker: SPEAKER_02
+Transcript: And I had that card.
+
+Segment 696:
+Start time: 2534.71
+End time: 2536.85
+Speaker: SPEAKER_02
+Transcript: I didn't have like this weird card, but a popular card.
+
+Segment 697:
+Start time: 2536.85
+End time: 2538.87
+Speaker: SPEAKER_02
+Transcript: And for some reason it didn't work.
+
+Segment 698:
+Start time: 2538.87
+End time: 2544.30
+Speaker: SPEAKER_02
+Transcript: And I was, I had taken C in school.
+
+Segment 699:
+Start time: 2544.30
+End time: 2548.54
+Speaker: SPEAKER_02
+Transcript: It was just enough programming that I knew on this day to solve the problem.
+
+Segment 700:
+Start time: 2550.08
+End time: 2556.11
+Speaker: SPEAKER_02
+Transcript:  So I'm literally, so my first experience with open source is I'm literally compiling the kernel.
+
+Segment 701:
+Start time: 2556.11
+End time: 2556.79
+Speaker: SPEAKER_02
+Transcript: It didn't work.
+
+Segment 702:
+Start time: 2556.79
+End time: 2561.11
+Speaker: SPEAKER_02
+Transcript: And it spits out a wall of errors, just like blah, blah, blah, blah, blah, blah.
+
+Segment 703:
+Start time: 2561.11
+End time: 2563.17
+Speaker: SPEAKER_02
+Transcript: So I scrolled up and I found the first error.
+
+Segment 704:
+Start time: 2563.17
+End time: 2565.64
+Speaker: SPEAKER_02
+Transcript: I'm like, well, that's the one that I need to fix.
+
+Segment 705:
+Start time: 2565.64
+End time: 2569.54
+Speaker: SPEAKER_02
+Transcript: And it was, it was magical that this worked out this way, but I actually fixed the problem.
+
+Segment 706:
+Start time: 2571.10
+End time: 2582.93
+Speaker: SPEAKER_02
+Transcript:  It was, there's a typo in one of the pre-compiler directives, one of the include statements that on this architecture, cause I had like the I 686 and there's the I 586, whatever it was.
+
+Segment 707:
+Start time: 2582.93
+End time: 2587.88
+Speaker: SPEAKER_02
+Transcript: And I just fixed one of the things and it compiled and I got on the internet.
+
+Segment 708:
+Start time: 2587.88
+End time: 2593.54
+Speaker: SPEAKER_02
+Transcript: And then I said, okay, well, you know, I fixed the thing and I've wrote down what it is that I fixed.
+
+Segment 709:
+Start time: 2595.30
+End time: 2600.12
+Speaker: SPEAKER_02
+Transcript:  And I said, okay, well, I guess what I'm supposed to do is share the fix.
+
+Segment 710:
+Start time: 2600.12
+End time: 2602.09
+Speaker: SPEAKER_02
+Transcript: So I got on the internet.
+
+Segment 711:
+Start time: 2602.09
+End time: 2605.29
+Speaker: SPEAKER_02
+Transcript: I did all my like computer setup stuff on Linux.
+
+Segment 712:
+Start time: 2605.29
+End time: 2611.45
+Speaker: SPEAKER_02
+Transcript: And then I found the project, which was a mailing list or it was either a mailing list or an IRC back then.
+
+Segment 713:
+Start time: 2611.45
+End time: 2615.64
+Speaker: SPEAKER_02
+Transcript: And then I went in there and I found the maintainer for whatever this module was.
+
+Segment 714:
+Start time: 2615.64
+End time: 2618.28
+Speaker: SPEAKER_02
+Transcript: And I said, Hey, I would like to contribute this fix.
+
+Segment 715:
+Start time: 2619.26
+End time: 2622.68
+Speaker: SPEAKER_02
+Transcript:  And then here's the thing that it was, and here's what it is.
+
+Segment 716:
+Start time: 2622.68
+End time: 2623.58
+Speaker: SPEAKER_02
+Transcript: And I didn't use a patch.
+
+Segment 717:
+Start time: 2623.58
+End time: 2626.13
+Speaker: SPEAKER_02
+Transcript: I didn't know how the right way to say articulate what I was doing.
+
+Segment 718:
+Start time: 2626.13
+End time: 2628.17
+Speaker: SPEAKER_02
+Transcript: I said, here's the fix.
+
+Segment 719:
+Start time: 2628.17
+End time: 2629.93
+Speaker: SPEAKER_02
+Transcript: And it worked for me.
+
+Segment 720:
+Start time: 2629.93
+End time: 2633.19
+Speaker: SPEAKER_02
+Transcript: And I said, I included it in the Linux kernel.
+
+Segment 721:
+Start time: 2633.19
+End time: 2642.84
+Speaker: SPEAKER_02
+Transcript: So my first contribution on OSS was getting a commit into the kernel, which is ridiculous nowadays, but it worked.
+
+Segment 722:
+Start time: 2642.84
+End time: 2644.62
+Speaker: SPEAKER_02
+Transcript: So I'm not, I'm not saying like how awesome it was.
+
+Segment 723:
+Start time: 2644.62
+End time: 2645.54
+Speaker: SPEAKER_02
+Transcript: It was really just a one line fix.
+
+Segment 724:
+Start time: 2646.46
+End time: 2650.85
+Speaker: SPEAKER_02
+Transcript:  But the story is that I got the whole closed loop.
+
+Segment 725:
+Start time: 2650.85
+End time: 2652.21
+Speaker: SPEAKER_02
+Transcript: So I had the problem.
+
+Segment 726:
+Start time: 2652.21
+End time: 2652.81
+Speaker: SPEAKER_02
+Transcript: I fixed it.
+
+Segment 727:
+Start time: 2652.81
+End time: 2654.65
+Speaker: SPEAKER_02
+Transcript: I was lucky enough that I could figure it out.
+
+Segment 728:
+Start time: 2654.65
+End time: 2655.61
+Speaker: SPEAKER_02
+Transcript: It worked.
+
+Segment 729:
+Start time: 2655.61
+End time: 2656.71
+Speaker: SPEAKER_02
+Transcript: I got online.
+
+Segment 730:
+Start time: 2656.71
+End time: 2657.78
+Speaker: SPEAKER_02
+Transcript: I was still using Linux.
+
+Segment 731:
+Start time: 2657.78
+End time: 2658.90
+Speaker: SPEAKER_02
+Transcript: I found the person.
+
+Segment 732:
+Start time: 2658.90
+End time: 2659.96
+Speaker: SPEAKER_02
+Transcript: I let them know.
+
+Segment 733:
+Start time: 2659.96
+End time: 2661.54
+Speaker: SPEAKER_02
+Transcript: They accepted it and they put it in a new version of Linux.
+
+Segment 734:
+Start time: 2664.42
+End time: 2667.12
+Speaker: SPEAKER_02
+Transcript:  That is the cycle that you need for open source.
+
+Segment 735:
+Start time: 2667.12
+End time: 2668.49
+Speaker: SPEAKER_02
+Transcript: That's the whole point.
+
+Segment 736:
+Start time: 2668.49
+End time: 2671.33
+Speaker: SPEAKER_02
+Transcript: And that was the first thing that I learned.
+
+Segment 737:
+Start time: 2671.33
+End time: 2672.09
+Speaker: SPEAKER_02
+Transcript: I didn't ever study.
+
+Segment 738:
+Start time: 2672.09
+End time: 2677.26
+Speaker: SPEAKER_02
+Transcript: I actually have a book now on open source, whatever, but for business school, but it's like, that's the whole point.
+
+Segment 739:
+Start time: 2677.26
+End time: 2682.54
+Speaker: SPEAKER_02
+Transcript: It's like when you learn religion, they say the whole point of, I don't know if this is a Jewish quote or something, but it's the whole point of religion is love.
+
+Segment 740:
+Start time: 2682.54
+End time: 2686.34
+Speaker: SPEAKER_02
+Transcript:  I don't know who I'm quoting on this, but
+
+Segment 741:
+Start time: 2688.09
+End time: 2688.51
+Speaker: SPEAKER_01
+Transcript:  Every religion.
+
+Segment 742:
+Start time: 2690.78
+End time: 2698.53
+Speaker: SPEAKER_02
+Transcript:  So if you understand love, then you're, you're basically done with religion and religion is a process to teach you love.
+
+Segment 743:
+Start time: 2698.53
+End time: 2699.91
+Speaker: SPEAKER_02
+Transcript: So that's the thing.
+
+Segment 744:
+Start time: 2699.91
+End time: 2705.09
+Speaker: SPEAKER_02
+Transcript: So I just skipped all of the religion part and I went straight straight to the love because that was the cycle.
+
+Segment 745:
+Start time: 2705.09
+End time: 2706.59
+Speaker: SPEAKER_02
+Transcript: That was the loop, the whole thing.
+
+Segment 746:
+Start time: 2706.59
+End time: 2712.54
+Speaker: SPEAKER_02
+Transcript: And I said, okay, well, this is the future of technology, collaboration, working across borders.
+
+Segment 747:
+Start time: 2713.54
+End time: 2717.44
+Speaker: SPEAKER_02
+Transcript:  Remember, this is also back 90s or something.
+
+Segment 748:
+Start time: 2717.44
+End time: 2719.27
+Speaker: SPEAKER_02
+Transcript: You didn't have pen pals across borders.
+
+Segment 749:
+Start time: 2719.27
+End time: 2721.03
+Speaker: SPEAKER_02
+Transcript: You talk to people that you knew back then.
+
+Segment 750:
+Start time: 2721.03
+End time: 2727.19
+Speaker: SPEAKER_02
+Transcript: So this is me talking to a stranger far away on a different time zone, like all those elements lined up.
+
+Segment 751:
+Start time: 2727.19
+End time: 2731.04
+Speaker: SPEAKER_02
+Transcript: And then I realized this is what the future is like, this is what science is like.
+
+Segment 752:
+Start time: 2731.04
+End time: 2731.86
+Speaker: SPEAKER_02
+Transcript: And it's fast.
+
+Segment 753:
+Start time: 2732.92
+End time: 2737.72
+Speaker: SPEAKER_02
+Transcript:  The whole thing is you don't have to, you don't have to be an expert to do science.
+
+Segment 754:
+Start time: 2737.72
+End time: 2738.47
+Speaker: SPEAKER_02
+Transcript: You don't have to be published.
+
+Segment 755:
+Start time: 2738.47
+End time: 2740.35
+Speaker: SPEAKER_02
+Transcript: You don't have to be in a journal to do science.
+
+Segment 756:
+Start time: 2740.35
+End time: 2742.51
+Speaker: SPEAKER_02
+Transcript: You just have to follow this process.
+
+Segment 757:
+Start time: 2742.51
+End time: 2743.31
+Speaker: SPEAKER_02
+Transcript: And this is science.
+
+Segment 758:
+Start time: 2743.31
+End time: 2750.54
+Speaker: SPEAKER_02
+Transcript: So for me, the understanding of science was getting this one line of code fix in the Linux kernel.
+
+Segment 759:
+Start time: 2750.54
+End time: 2753.50
+Speaker: SPEAKER_02
+Transcript: And then I took this experience forward for everything with open source.
+
+Segment 760:
+Start time: 2755.98
+End time: 2757.04
+Speaker: SPEAKER_01
+Transcript:  Yeah.
+
+Segment 761:
+Start time: 2757.04
+End time: 2761.15
+Speaker: SPEAKER_01
+Transcript: And I guess like open source has evolved since then.
+
+Segment 762:
+Start time: 2761.15
+End time: 2763.65
+Speaker: SPEAKER_01
+Transcript: What is the process like today?
+
+Segment 763:
+Start time: 2763.65
+End time: 2772.78
+Speaker: SPEAKER_01
+Transcript: I mean, I guess that that general loop is the same, but the I'm sure like things have evolved.
+
+Segment 764:
+Start time: 2772.78
+End time: 2777.52
+Speaker: SPEAKER_01
+Transcript: Projects are tend to be much more or many of them are much more organized.
+
+Segment 765:
+Start time: 2778.86
+End time: 2785.54
+Speaker: SPEAKER_01
+Transcript:  There's a lot of kind of norms and complexities that have popped up.
+
+Segment 766:
+Start time: 2786.54
+End time: 2790.46
+Speaker: SPEAKER_02
+Transcript:  I think very little has changed since decades ago of open source.
+
+Segment 767:
+Start time: 2790.46
+End time: 2796.29
+Speaker: SPEAKER_02
+Transcript: Maybe more people are using GitHub than mailing lists for better and worse.
+
+Segment 768:
+Start time: 2796.29
+End time: 2798.87
+Speaker: SPEAKER_02
+Transcript: There's it's a lot.
+
+Segment 769:
+Start time: 2798.87
+End time: 2800.32
+Speaker: SPEAKER_02
+Transcript: I really don't think the process has changed.
+
+Segment 770:
+Start time: 2800.32
+End time: 2801.16
+Speaker: SPEAKER_02
+Transcript: I'm gonna say like this.
+
+Segment 771:
+Start time: 2801.16
+End time: 2802.92
+Speaker: SPEAKER_02
+Transcript: It has not changed at all.
+
+Segment 772:
+Start time: 2802.92
+End time: 2804.32
+Speaker: SPEAKER_02
+Transcript: It's just that more people are aware of it now.
+
+Segment 773:
+Start time: 2806.44
+End time: 2811.39
+Speaker: SPEAKER_02
+Transcript:  And with the awareness is bringing more contributors.
+
+Segment 774:
+Start time: 2811.39
+End time: 2823.40
+Speaker: SPEAKER_02
+Transcript: So there's lots of casual contributors, people that are not going to make a career in software, contributing to software, more tinkering, people that want a thing, but they don't want to wait for the software to come out.
+
+Segment 775:
+Start time: 2823.40
+End time: 2824.68
+Speaker: SPEAKER_02
+Transcript: Like, let's talk about AI.
+
+Segment 776:
+Start time: 2824.68
+End time: 2825.48
+Speaker: SPEAKER_02
+Transcript: So there's a lot of people are AI.
+
+Segment 777:
+Start time: 2827.14
+End time: 2832.39
+Speaker: SPEAKER_02
+Transcript:  There's a lot of people that want to do AI machine learning, people that want to do normal network programming.
+
+Segment 778:
+Start time: 2832.39
+End time: 2834.49
+Speaker: SPEAKER_02
+Transcript: And they're not the tools aren't out yet.
+
+Segment 779:
+Start time: 2834.49
+End time: 2836.47
+Speaker: SPEAKER_02
+Transcript: The consumer tools are just not there yet.
+
+Segment 780:
+Start time: 2836.47
+End time: 2846.54
+Speaker: SPEAKER_02
+Transcript: So they have to follow some guide in order to get it to work like that level of engagement is bringing people in that are not, let's say, professional contributors to these type of projects.
+
+Segment 781:
+Start time: 2847.56
+End time: 2849.46
+Speaker: SPEAKER_02
+Transcript:  In the past, there were a lot more professional contributors.
+
+Segment 782:
+Start time: 2849.46
+End time: 2851.40
+Speaker: SPEAKER_02
+Transcript: Now there's a lot more casual people.
+
+Segment 783:
+Start time: 2851.40
+End time: 2856.07
+Speaker: SPEAKER_02
+Transcript: So the people have changed the process, the technology is identical.
+
+Segment 784:
+Start time: 2856.07
+End time: 2858.61
+Speaker: SPEAKER_02
+Transcript: There's different names we were using.
+
+Segment 785:
+Start time: 2858.61
+End time: 2863.62
+Speaker: SPEAKER_02
+Transcript: CBS, then we're using subversion.
+
+Segment 786:
+Start time: 2863.62
+End time: 2866.78
+Speaker: SPEAKER_02
+Transcript: Now we're using Git, probably going to use Git forever.
+
+Segment 787:
+Start time: 2866.78
+End time: 2867.54
+Speaker: SPEAKER_02
+Transcript: But they're the same thing.
+
+Segment 788:
+Start time: 2871.32
+End time: 2873.08
+Speaker: SPEAKER_01
+Transcript:  Yeah, okay.
+
+Segment 789:
+Start time: 2873.08
+End time: 2878.11
+Speaker: SPEAKER_01
+Transcript: Yeah, so basically, nothing's changed.
+
+Segment 790:
+Start time: 2878.11
+End time: 2879.63
+Speaker: SPEAKER_02
+Transcript: The people have changed.
+
+Segment 791:
+Start time: 2879.63
+End time: 2882.21
+Speaker: SPEAKER_01
+Transcript: Yeah, the people have changed.
+
+Segment 792:
+Start time: 2882.21
+End time: 2885.15
+Speaker: SPEAKER_01
+Transcript: And that's, where do you see conserve going?
+
+Segment 793:
+Start time: 2885.15
+End time: 2888.61
+Speaker: SPEAKER_01
+Transcript: Do you see open source eating the world?
+
+Segment 794:
+Start time: 2888.61
+End time: 2896.30
+Speaker: SPEAKER_01
+Transcript: There's a, and you know, there's this debate in now that we're on on the AI stuff, you know, open models and stuff like that.
+
+Segment 795:
+Start time: 2897.64
+End time: 2902.74
+Speaker: SPEAKER_02
+Transcript:  Yeah, I don't know if we're allowed to talk about that Google leaked memo.
+
+Segment 796:
+Start time: 2902.74
+End time: 2904.54
+Speaker: SPEAKER_02
+Transcript: But that's, that's the one.
+
+Segment 797:
+Start time: 2904.54
+End time: 2904.98
+Speaker: SPEAKER_02
+Transcript:  I didn't say it.
+
+Segment 798:
+Start time: 2904.98
+End time: 2906.54
+Speaker: SPEAKER_01
+Transcript: You said it.
+
+Segment 799:
+Start time: 2907.62
+End time: 2908.90
+Speaker: SPEAKER_02
+Transcript:  There you go.
+
+Segment 800:
+Start time: 2908.90
+End time: 2924.51
+Speaker: SPEAKER_02
+Transcript: So there's a leaked memo from Google, discussing the comparison of basically it says that the future of neural network products is going to come from open source, open sources, eating Google's lunch.
+
+Segment 801:
+Start time: 2924.51
+End time: 2928.02
+Speaker: SPEAKER_02
+Transcript: There's really no path forward for Google to make a competitive product.
+
+Segment 802:
+Start time: 2928.02
+End time: 2933.44
+Speaker: SPEAKER_02
+Transcript: When the progress from the open collaboration world is 10x faster.
+
+Segment 803:
+Start time: 2934.92
+End time: 2936.52
+Speaker: SPEAKER_02
+Transcript:  And it just it goes to market way faster.
+
+Segment 804:
+Start time: 2939.06
+End time: 2944.51
+Speaker: SPEAKER_02
+Transcript:  Some people I remember a long time ago, sometimes communism was attached to open source.
+
+Segment 805:
+Start time: 2944.51
+End time: 2947.32
+Speaker: SPEAKER_02
+Transcript: They were saying that it's the communist approach.
+
+Segment 806:
+Start time: 2947.32
+End time: 2948.54
+Speaker: SPEAKER_02
+Transcript: And the closed source software is the capitalist approach.
+
+Segment 807:
+Start time: 2951.84
+End time: 2960.21
+Speaker: SPEAKER_02
+Transcript:  If you look at the word capitalism, capital means you're going to create an asset that's valuable capital, and you're going to drive a profit from that asset.
+
+Segment 808:
+Start time: 2960.21
+End time: 2965.12
+Speaker: SPEAKER_02
+Transcript: But open source software is free, therefore it is not an asset that you own.
+
+Segment 809:
+Start time: 2965.12
+End time: 2969.52
+Speaker: SPEAKER_02
+Transcript: It kind of lines up, it kind of lines up that open sources communism and products, but
+
+Segment 810:
+Start time: 2969.64
+End time: 2970.53
+Speaker: SPEAKER_02
+Transcript:  socialism may be more
+
+Segment 811:
+Start time: 2972.58
+End time: 2972.98
+Speaker: SPEAKER_01
+Transcript:  right.
+
+Segment 812:
+Start time: 2979.68
+End time: 2982.93
+Speaker: SPEAKER_02
+Transcript:  And it's this is just from long ago.
+
+Segment 813:
+Start time: 2982.93
+End time: 2984.41
+Speaker: SPEAKER_02
+Transcript: This is what the way that people are talking about.
+
+Segment 814:
+Start time: 2984.41
+End time: 2985.39
+Speaker: SPEAKER_02
+Transcript: Nobody talks like this anymore.
+
+Segment 815:
+Start time: 2985.39
+End time: 2986.71
+Speaker: SPEAKER_02
+Transcript: Nobody says that anymore.
+
+Segment 816:
+Start time: 2986.71
+End time: 2992.52
+Speaker: SPEAKER_02
+Transcript: And we're just focused on the outcomes, not the not the ideology, not the why are people doing this way.
+
+Segment 817:
+Start time: 2992.52
+End time: 2993.94
+Speaker: SPEAKER_02
+Transcript: It's just, it is way more effective.
+
+Segment 818:
+Start time: 2993.94
+End time: 2995.32
+Speaker: SPEAKER_02
+Transcript: It is 10x more effective every time.
+
+Segment 819:
+Start time: 2997.50
+End time: 3002.29
+Speaker: SPEAKER_02
+Transcript:  The products are better, that brings people in faster.
+
+Segment 820:
+Start time: 3002.29
+End time: 3008.54
+Speaker: SPEAKER_02
+Transcript: And so you just need to adapt to that you need to make businesses that thrive in this future, rather than making businesses that suck.
+
+Segment 821:
+Start time: 3009.54
+End time: 3015.23
+Speaker: SPEAKER_02
+Transcript:  Yeah, that's why I left Google is because they don't know how to make businesses.
+
+Segment 822:
+Start time: 3015.23
+End time: 3017.45
+Speaker: SPEAKER_02
+Transcript: They've only ever made one product that works.
+
+Segment 823:
+Start time: 3017.45
+End time: 3020.19
+Speaker: SPEAKER_02
+Transcript: And they're just not business people.
+
+Segment 824:
+Start time: 3020.19
+End time: 3021.83
+Speaker: SPEAKER_02
+Transcript: They don't they didn't figure this out.
+
+Segment 825:
+Start time: 3021.83
+End time: 3027.32
+Speaker: SPEAKER_02
+Transcript: Luckily, this this leaked memo shows that somebody in there has a brain and is thinking about, you know, how can stuff, how can we adapt to this future?
+
+Segment 826:
+Start time: 3027.32
+End time: 3029.54
+Speaker: SPEAKER_02
+Transcript: How can we how can we be alive in this future, where open source software is the path forward?
+
+Segment 827:
+Start time: 3030.07
+End time: 3030.43
+Speaker: SPEAKER_02
+Transcript:  Yeah.
+
+Segment 828:
+Start time: 3059.56
+End time: 3066.41
+Speaker: SPEAKER_01
+Transcript:  I think it's, um, it's gonna be really interesting to see how all this stuff plays out.
+
+Segment 829:
+Start time: 3066.41
+End time: 3074.79
+Speaker: SPEAKER_01
+Transcript: I think there's um, I mean, there are definitely like counter arguments to what what you described.
+
+Segment 830:
+Start time: 3074.79
+End time: 3085.80
+Speaker: SPEAKER_01
+Transcript: And I, I do tend to think that like, there's something about if you're doing enterprise stuff, that it's like companies,
+
+Segment 831:
+Start time: 3088.02
+End time: 3094.03
+Speaker: SPEAKER_01
+Transcript:  how they make decisions on service providers and like what they trust.
+
+Segment 832:
+Start time: 3094.03
+End time: 3109.28
+Speaker: SPEAKER_01
+Transcript: If there's like, if there's a customer service engineer, they can talk to like those, those kinds of things make a difference, because that ends up like what's in, you know, the back end to the big consumer products that, you know, everybody's using.
+
+Segment 833:
+Start time: 3111.66
+End time: 3121.53
+Speaker: SPEAKER_01
+Transcript:  And I, I still don't know, like I go back and forth, proprietary versus open source.
+
+Segment 834:
+Start time: 3121.53
+End time: 3133.32
+Speaker: SPEAKER_01
+Transcript: You know, you you kind of implied that or kind of assented to my idea that, you know, is open source eating the world are going to eat the world?
+
+Segment 835:
+Start time: 3134.72
+End time: 3136.16
+Speaker: SPEAKER_01
+Transcript:  Yeah, the answer is yes.
+
+Segment 836:
+Start time: 3136.16
+End time: 3138.16
+Speaker: SPEAKER_02
+Transcript: Open source eats the world.
+
+Segment 837:
+Start time: 3138.16
+End time: 3148.05
+Speaker: SPEAKER_02
+Transcript: And also, your question before or your comment before about, you know, companies need services, companies need customer support.
+
+Segment 838:
+Start time: 3148.05
+End time: 3149.51
+Speaker: SPEAKER_02
+Transcript: That's the answer.
+
+Segment 839:
+Start time: 3149.51
+End time: 3151.61
+Speaker: SPEAKER_02
+Transcript: Open source doesn't do customer support.
+
+Segment 840:
+Start time: 3151.61
+End time: 3159.50
+Speaker: SPEAKER_02
+Transcript: And there is, there is room for businesses, there's room for making money, there's room for building brands that is compatible with open source software.
+
+Segment 841:
+Start time: 3161.20
+End time: 3165.84
+Speaker: SPEAKER_02
+Transcript:  The way that software is going to software is a open source thing that is eating the world.
+
+Segment 842:
+Start time: 3165.84
+End time: 3170.09
+Speaker: SPEAKER_02
+Transcript: And I'm gonna be two examples that you're saying, haven't we been saying this forever?
+
+Segment 843:
+Start time: 3170.09
+End time: 3174.83
+Speaker: SPEAKER_02
+Transcript: So I'll give you those two examples of where the great examples.
+
+Segment 844:
+Start time: 3174.83
+End time: 3178.40
+Speaker: SPEAKER_02
+Transcript: Okay, so the one now back to the business.
+
+Segment 845:
+Start time: 3178.40
+End time: 3181.36
+Speaker: SPEAKER_02
+Transcript: So yeah, so the future of it's really not about the future of software.
+
+Segment 846:
+Start time: 3181.36
+End time: 3182.22
+Speaker: SPEAKER_02
+Transcript: Nobody cares about software.
+
+Segment 847:
+Start time: 3182.22
+End time: 3182.94
+Speaker: SPEAKER_02
+Transcript: People care about products.
+
+Segment 848:
+Start time: 3182.94
+End time: 3183.54
+Speaker: SPEAKER_02
+Transcript: People care about business.
+
+Segment 849:
+Start time: 3184.98
+End time: 3189.22
+Speaker: SPEAKER_02
+Transcript:  And so yeah, the future of business is not to be replaced by open source.
+
+Segment 850:
+Start time: 3189.22
+End time: 3190.51
+Speaker: SPEAKER_02
+Transcript: That doesn't make sense.
+
+Segment 851:
+Start time: 3190.51
+End time: 3199.19
+Speaker: SPEAKER_02
+Transcript: You're not going to start buying your office software from a bunch of people that don't answer your phone call when things like that's not what companies do.
+
+Segment 852:
+Start time: 3199.19
+End time: 3203.41
+Speaker: SPEAKER_02
+Transcript: So they need soft, they need support, even if the support is terrible.
+
+Segment 853:
+Start time: 3203.41
+End time: 3212.38
+Speaker: SPEAKER_02
+Transcript: And it's delivered by underqualified people, like even even the worst possible imaginable support, as long as it's better than an AI chatbot.
+
+Segment 854:
+Start time: 3213.72
+End time: 3217.54
+Speaker: SPEAKER_02
+Transcript:  As long as it's a real human, even subpar, then they will pay for that.
+
+Segment 855:
+Start time: 3219.76
+End time: 3221.54
+Speaker: SPEAKER_02
+Transcript:  So for now, for now, for now.
+
+Segment 856:
+Start time: 3223.52
+End time: 3239.77
+Speaker: SPEAKER_02
+Transcript:  But for businesses that there is, there's definitely you're paying for the brand, the product doesn't really matter if the product is capitalism owned by the product by the company or socialism, communism owned by some community that doesn't matter.
+
+Segment 857:
+Start time: 3239.77
+End time: 3241.66
+Speaker: SPEAKER_02
+Transcript: People don't care about that philosophy.
+
+Segment 858:
+Start time: 3241.66
+End time: 3242.46
+Speaker: SPEAKER_02
+Transcript: They care about the product.
+
+Segment 859:
+Start time: 3242.46
+End time: 3246.54
+Speaker: SPEAKER_02
+Transcript: And so yeah, businesses that work with open source will thrive.
+
+Segment 860:
+Start time: 3248.18
+End time: 3251.01
+Speaker: SPEAKER_02
+Transcript:  Now the question is, have we have we been saying this forever?
+
+Segment 861:
+Start time: 3251.01
+End time: 3252.52
+Speaker: SPEAKER_02
+Transcript: One of the quotes is, is this the year of the Linux desktop?
+
+Segment 862:
+Start time: 3255.37
+End time: 3257.54
+Speaker: SPEAKER_02
+Transcript:  This is the year that Linux takes over Windows.
+
+Segment 863:
+Start time: 3259.10
+End time: 3260.73
+Speaker: SPEAKER_02
+Transcript:  This is the year that Linux takes over Windows.
+
+Segment 864:
+Start time: 3260.73
+End time: 3263.40
+Speaker: SPEAKER_02
+Transcript: And then in all this time, people have been talking about this, Mac just took over everything.
+
+Segment 865:
+Start time: 3263.40
+End time: 3264.26
+Speaker: SPEAKER_02
+Transcript: So Apple took over everything.
+
+Segment 866:
+Start time: 3264.54
+End time: 3264.87
+Speaker: SPEAKER_02
+Transcript:  With Unix.
+
+Segment 867:
+Start time: 3267.16
+End time: 3268.06
+Speaker: SPEAKER_02
+Transcript:  With Unix.
+
+Segment 868:
+Start time: 3268.06
+End time: 3286.54
+Speaker: SPEAKER_02
+Transcript: So there's really two things that people have been saying forever to really out there projects from GNU, which is with Richard Stallman, who is just so communist or whatever, on the other side of everything that just really strives to connect to the real world.
+
+Segment 869:
+Start time: 3287.84
+End time: 3291.91
+Speaker: SPEAKER_02
+Transcript:  Two of the things from the GNU world were GNU herd.
+
+Segment 870:
+Start time: 3291.91
+End time: 3294.41
+Speaker: SPEAKER_02
+Transcript: So is GNU herd going to be the future?
+
+Segment 871:
+Start time: 3294.41
+End time: 3301.54
+Speaker: SPEAKER_02
+Transcript: The new operating system from scratch, built under open source, without any influences from the outside world.
+
+Segment 872:
+Start time: 3302.56
+End time: 3304.64
+Speaker: SPEAKER_02
+Transcript:  And it was based on micro architecture.
+
+Segment 873:
+Start time: 3304.64
+End time: 3306.49
+Speaker: SPEAKER_02
+Transcript: This is a technical decision.
+
+Segment 874:
+Start time: 3306.49
+End time: 3309.19
+Speaker: SPEAKER_02
+Transcript: And basically, the end result is this is what Apple now uses.
+
+Segment 875:
+Start time: 3309.19
+End time: 3317.54
+Speaker: SPEAKER_02
+Transcript: So this whole magical product that people wanted is now used by the whole world, billions of people, because Apple brought it forward.
+
+Segment 876:
+Start time: 3318.10
+End time: 3325.52
+Speaker: SPEAKER_02
+Transcript:  And Apple brought Apple's kind of their walled garden approach, but they do make the minimum amount of improvements to open source that they can.
+
+Segment 877:
+Start time: 3326.54
+End time: 3330.23
+Speaker: SPEAKER_02
+Transcript:  They also have managed to keep a lot of things private.
+
+Segment 878:
+Start time: 3330.23
+End time: 3332.44
+Speaker: SPEAKER_02
+Transcript: But all the ideas were stolen anyway, because they went to Android.
+
+Segment 879:
+Start time: 3334.68
+End time: 3352.32
+Speaker: SPEAKER_02
+Transcript:  And the second thing, which just happened this year is so many people were thinking, oh, there's another project called GNU Social, which is a new social network based on magical open platforms that are just interoperable and perfect, like email, and not subject to the influences of the powers that be.
+
+Segment 880:
+Start time: 3353.94
+End time: 3360.54
+Speaker: SPEAKER_02
+Transcript:  And this week, a major company in this industry launched a product that supposedly will be compatible with this in the future.
+
+Segment 881:
+Start time: 3362.08
+End time: 3368.19
+Speaker: SPEAKER_02
+Transcript:  So GNU Social became, and Pump was one of the programs that did this.
+
+Segment 882:
+Start time: 3368.19
+End time: 3375.54
+Speaker: SPEAKER_02
+Transcript: Basically, we have something called Activity Pump now, which is a potential competitor to social networks out there.
+
+Segment 883:
+Start time: 3376.74
+End time: 3382.69
+Speaker: SPEAKER_02
+Transcript:  And this is the open source design and incompatible and all these things.
+
+Segment 884:
+Start time: 3382.69
+End time: 3387.54
+Speaker: SPEAKER_02
+Transcript: And now Meta comes out with threads that propose to be compatible with this.
+
+Segment 885:
+Start time: 3388.54
+End time: 3394.27
+Speaker: SPEAKER_02
+Transcript:  So these are two major achievements in the open source world that people thought would take decades to come.
+
+Segment 886:
+Start time: 3394.27
+End time: 3396.52
+Speaker: SPEAKER_02
+Transcript: And it just happens to be that this is the decade that they came.
+
+Segment 887:
+Start time: 3397.74
+End time: 3400.41
+Speaker: SPEAKER_02
+Transcript:  So, yes, we have been saying it forever.
+
+Segment 888:
+Start time: 3400.41
+End time: 3404.54
+Speaker: SPEAKER_02
+Transcript: And now we need new goals to aspire to, because the goals that we've been working on have been achieved.
+
+Segment 889:
+Start time: 3406.12
+End time: 3409.54
+Speaker: SPEAKER_02
+Transcript:  But no, it does not make businesses obsolete or money obsolete or any of that stuff.
+
+Segment 890:
+Start time: 3410.84
+End time: 3414.61
+Speaker: SPEAKER_01
+Transcript:  Yeah.
+
+Segment 891:
+Start time: 3414.61
+End time: 3415.05
+Speaker: SPEAKER_01
+Transcript: Great.
+
+Segment 892:
+Start time: 3415.05
+End time: 3423.27
+Speaker: SPEAKER_01
+Transcript: One last thing I wanted to make sure we cover was you and I do this community service hour that we co-host every week.
+
+Segment 893:
+Start time: 3423.27
+End time: 3428.54
+Speaker: SPEAKER_01
+Transcript: And I've never asked you, what do you get out of that experience?
+
+Segment 894:
+Start time: 3429.96
+End time: 3435.54
+Speaker: SPEAKER_01
+Transcript:  And how do you think your live streaming skills have developed over the course of?
+
+Segment 895:
+Start time: 3436.12
+End time: 3438.74
+Speaker: SPEAKER_02
+Transcript:  I get a lot out of it.
+
+Segment 896:
+Start time: 3438.74
+End time: 3444.65
+Speaker: SPEAKER_02
+Transcript: It's a nice way to connect with people is to have a show, a public show.
+
+Segment 897:
+Start time: 3444.65
+End time: 3445.49
+Speaker: SPEAKER_02
+Transcript: I do advisory.
+
+Segment 898:
+Start time: 3445.49
+End time: 3449.82
+Speaker: SPEAKER_02
+Transcript: So I help businesses implement a lot of the stuff we're talking about.
+
+Segment 899:
+Start time: 3449.82
+End time: 3450.94
+Speaker: SPEAKER_02
+Transcript: And I make money off of that.
+
+Segment 900:
+Start time: 3452.62
+End time: 3454.81
+Speaker: SPEAKER_02
+Transcript:  And so it's a nice differentiator.
+
+Segment 901:
+Start time: 3454.81
+End time: 3459.50
+Speaker: SPEAKER_02
+Transcript: Do you want to have a private conversation where you're going to be paying me or do you want to have a public conversation where I'm going to publish it?
+
+Segment 902:
+Start time: 3461.12
+End time: 3465.55
+Speaker: SPEAKER_02
+Transcript:  And that's a nice differentiator because a lot of people are businesses that don't want to pay for things.
+
+Segment 903:
+Start time: 3465.55
+End time: 3470.54
+Speaker: SPEAKER_02
+Transcript: So making it public is a really easy way to just differentiate the community world versus the work world.
+
+Segment 904:
+Start time: 3472.20
+End time: 3476.54
+Speaker: SPEAKER_02
+Transcript:  And more businesses should just show up and get the advice for free on the call.
+
+Segment 905:
+Start time: 3477.80
+End time: 3478.52
+Speaker: SPEAKER_02
+Transcript:  Don't tell anyone.
+
+Segment 906:
+Start time: 3478.56
+End time: 3479.88
+Speaker: SPEAKER_02
+Transcript:  My idea is so secret.
+
+Segment 907:
+Start time: 3479.88
+End time: 3482.24
+Speaker: SPEAKER_02
+Transcript: There's 10 other people that have the same idea.
+
+Segment 908:
+Start time: 3482.24
+End time: 3484.69
+Speaker: SPEAKER_02
+Transcript: The ideas are not special.
+
+Segment 909:
+Start time: 3484.69
+End time: 3485.77
+Speaker: SPEAKER_02
+Transcript: It's the execution that's special.
+
+Segment 910:
+Start time: 3485.77
+End time: 3492.62
+Speaker: SPEAKER_02
+Transcript: So for me, it's very nice to separate those two parts of who I talk to, the clients and the private stuff versus the public stuff that I publish.
+
+Segment 911:
+Start time: 3497.34
+End time: 3501.41
+Speaker: SPEAKER_02
+Transcript:  That's a tangible value.
+
+Segment 912:
+Start time: 3501.41
+End time: 3506.76
+Speaker: SPEAKER_02
+Transcript: I mean, I talk to a lot of people and I get quite a bit of DMs that I don't like saying no to people when they want help.
+
+Segment 913:
+Start time: 3506.76
+End time: 3509.54
+Speaker: SPEAKER_02
+Transcript: If I can help people, especially if it's part of my vision that I'm trying to change the world, I want to help people.
+
+Segment 914:
+Start time: 3511.10
+End time: 3518.10
+Speaker: SPEAKER_02
+Transcript:  And putting that into a one hour box each week really helps me clear up my week and stay focused.
+
+Segment 915:
+Start time: 3518.10
+End time: 3519.54
+Speaker: SPEAKER_02
+Transcript: So that's a very practical thing.
+
+Segment 916:
+Start time: 3521.36
+End time: 3527.93
+Speaker: SPEAKER_02
+Transcript:  Two is it's helping me to make some blog posts, to articulate better some of these ideas.
+
+Segment 917:
+Start time: 3527.93
+End time: 3532.82
+Speaker: SPEAKER_02
+Transcript: We have had a couple of these themes on Community Service Hour where the themes come along a few times.
+
+Segment 918:
+Start time: 3532.82
+End time: 3534.54
+Speaker: SPEAKER_02
+Transcript: One of them is like, blockchain is not decentralized.
+
+Segment 919:
+Start time: 3534.66
+End time: 3537.76
+Speaker: SPEAKER_02
+Transcript:  Something people don't understand.
+
+Segment 920:
+Start time: 3537.76
+End time: 3542.43
+Speaker: SPEAKER_02
+Transcript: And so we've touched a few times, but eventually we've said enough that it can be a blog post.
+
+Segment 921:
+Start time: 3542.43
+End time: 3544.45
+Speaker: SPEAKER_02
+Transcript: And that is the word on the subject.
+
+Segment 922:
+Start time: 3544.45
+End time: 3548.40
+Speaker: SPEAKER_02
+Transcript: So it's nice as a column to bring themes up over and over.
+
+Segment 923:
+Start time: 3548.40
+End time: 3549.52
+Speaker: SPEAKER_02
+Transcript: Plus, it's just the way that people work.
+
+Segment 924:
+Start time: 3551.22
+End time: 3559.23
+Speaker: SPEAKER_02
+Transcript:  Is it really the way that you achieve solutions to just talk about something and make it or talk about something and then publish a blog?
+
+Segment 925:
+Start time: 3559.23
+End time: 3560.93
+Speaker: SPEAKER_02
+Transcript: No, these are discussions.
+
+Segment 926:
+Start time: 3560.93
+End time: 3567.52
+Speaker: SPEAKER_02
+Transcript: As you bring in more people, we've got a crew, we've got a dedicated faithful crew of people that show up and they're just different perspectives.
+
+Segment 927:
+Start time: 3567.60
+End time: 3576.19
+Speaker: SPEAKER_02
+Transcript:  Neural networks, one of the great things that will come from neural networks is simulating different perspectives.
+
+Segment 928:
+Start time: 3576.19
+End time: 3578.35
+Speaker: SPEAKER_02
+Transcript: That's a major thing that will come out.
+
+Segment 929:
+Start time: 3578.35
+End time: 3581.43
+Speaker: SPEAKER_02
+Transcript: You know, if you've got to meet, we talk about diversity, diversity, diversity.
+
+Segment 930:
+Start time: 3581.43
+End time: 3584.00
+Speaker: SPEAKER_02
+Transcript: And Harvard had a major lawsuit about diversity.
+
+Segment 931:
+Start time: 3584.00
+End time: 3586.22
+Speaker: SPEAKER_02
+Transcript: And that one just cleared through the Supreme Court.
+
+Segment 932:
+Start time: 3586.22
+End time: 3588.54
+Speaker: SPEAKER_02
+Transcript: And then the next day, a second one came continuing that angle.
+
+Segment 933:
+Start time: 3590.22
+End time: 3592.66
+Speaker: SPEAKER_02
+Transcript:  So diversity is a great thing.
+
+Segment 934:
+Start time: 3592.66
+End time: 3593.94
+Speaker: SPEAKER_02
+Transcript: You can simulate some of it.
+
+Segment 935:
+Start time: 3593.94
+End time: 3598.51
+Speaker: SPEAKER_02
+Transcript: So you can just bring people into your meeting with extremely diverse opinions.
+
+Segment 936:
+Start time: 3598.51
+End time: 3600.69
+Speaker: SPEAKER_02
+Transcript: But we do that automatically with community service.
+
+Segment 937:
+Start time: 3600.69
+End time: 3609.69
+Speaker: SPEAKER_02
+Transcript: I'm not placing these people with robots, but we get some really diverse opinions from all parts of life and humanity.
+
+Segment 938:
+Start time: 3609.69
+End time: 3614.00
+Speaker: SPEAKER_02
+Transcript: And it's great.
+
+Segment 939:
+Start time: 3614.00
+End time: 3616.84
+Speaker: SPEAKER_02
+Transcript: It's great because you really need that to get to where you're going.
+
+Segment 940:
+Start time: 3617.76
+End time: 3620.62
+Speaker: SPEAKER_02
+Transcript:  So same thing.
+
+Segment 941:
+Start time: 3620.62
+End time: 3628.65
+Speaker: SPEAKER_02
+Transcript: If you're publishing products yourself or you're writing blog posts, there's a proclivity to just go off your own angles.
+
+Segment 942:
+Start time: 3628.65
+End time: 3638.62
+Speaker: SPEAKER_02
+Transcript: But if you have a weekly call, if you have this bouncing back, you've really exposed you to the diversity of ideas that you need to get better.
+
+Segment 943:
+Start time: 3638.62
+End time: 3639.22
+Speaker: SPEAKER_02
+Transcript: That's what I get out of it.
+
+Segment 944:
+Start time: 3640.54
+End time: 3640.62
+Speaker: Unknown
+Transcript:  Yeah.
+
+Segment 945:
+Start time: 3641.92
+End time: 3642.86
+Speaker: SPEAKER_01
+Transcript:  Thanks for sharing.
+
+Segment 946:
+Start time: 3642.86
+End time: 3646.50
+Speaker: SPEAKER_01
+Transcript: I get a lot of those, those things, too.
+
+Segment 947:
+Start time: 3646.68
+End time: 3648.10
+Speaker: SPEAKER_02
+Transcript:  I don't know if he's going back.
+
+Segment 948:
+Start time: 3649.54
+End time: 3654.10
+Speaker: SPEAKER_00
+Transcript:  Yeah, he says maybe I'll do the wrap off for us.
+
+Segment 949:
+Start time: 3654.93
+End time: 3655.11
+Speaker: SPEAKER_02
+Transcript:  Yeah.
+
+Segment 950:
+Start time: 3655.80
+End time: 3670.08
+Speaker: SPEAKER_00
+Transcript:  Yeah, maybe like just one maybe last thing that like, how should folks follow you and hear more about you, like what you do and keep following you and interact with you?
+
+Segment 951:
+Start time: 3671.54
+End time: 3672.26
+Speaker: SPEAKER_02
+Transcript:  Following is easy.
+
+Segment 952:
+Start time: 3672.26
+End time: 3674.53
+Speaker: SPEAKER_02
+Transcript: So that's I have a website called 4.net.
+
+Segment 953:
+Start time: 3674.53
+End time: 3675.52
+Speaker: SPEAKER_02
+Transcript: Can I type here?
+
+Segment 954:
+Start time: 3675.52
+End time: 3675.88
+Speaker: SPEAKER_02
+Transcript: Boom.
+
+Segment 955:
+Start time: 3679.87
+End time: 3680.09
+Speaker: SPEAKER_00
+Transcript:  Sure.
+
+Segment 956:
+Start time: 3680.66
+End time: 3681.52
+Speaker: SPEAKER_02
+Transcript:  So there's that.
+
+Segment 957:
+Start time: 3681.54
+End time: 3684.44
+Speaker: SPEAKER_00
+Transcript:  We'll share that in the description as well.
+
+Segment 958:
+Start time: 3685.56
+End time: 3685.64
+Speaker: SPEAKER_02
+Transcript:  Yep.
+
+Segment 959:
+Start time: 3685.64
+End time: 3689.86
+Speaker: SPEAKER_02
+Transcript: So 4.net, there's a bunch of places you can click follow and a bunch of those things.
+
+Segment 960:
+Start time: 3689.86
+End time: 3690.72
+Speaker: SPEAKER_02
+Transcript: There's an email list.
+
+Segment 961:
+Start time: 3690.72
+End time: 3695.37
+Speaker: SPEAKER_02
+Transcript: That's, you know, you get an email once a month from me to just summarize all that stuff.
+
+Segment 962:
+Start time: 3695.37
+End time: 3698.17
+Speaker: SPEAKER_02
+Transcript: But better is I want to hear from you.
+
+Segment 963:
+Start time: 3698.17
+End time: 3700.11
+Speaker: SPEAKER_02
+Transcript: You know, more alpha for me.
+
+Segment 964:
+Start time: 3700.11
+End time: 3700.37
+Speaker: SPEAKER_02
+Transcript: Right?
+
+Segment 965:
+Start time: 3700.37
+End time: 3702.51
+Speaker: SPEAKER_02
+Transcript: So show up, ask your questions, introduce yourself.
+
+Segment 966:
+Start time: 3702.51
+End time: 3703.88
+Speaker: SPEAKER_02
+Transcript: You know, that's really the whole point.
+
+Segment 967:
+Start time: 3703.88
+End time: 3705.52
+Speaker: SPEAKER_02
+Transcript: I think following is overrated.
+
+Segment 968:
+Start time: 3705.52
+End time: 3707.54
+Speaker: SPEAKER_02
+Transcript: You know, interacting is underrated.
+
+Segment 969:
+Start time: 3707.54
+End time: 3708.76
+Speaker: SPEAKER_02
+Transcript: So show up.
+
+Segment 970:
+Start time: 3708.76
+End time: 3710.10
+Speaker: SPEAKER_02
+Transcript: I have the community service hour.
+
+Segment 971:
+Start time: 3710.10
+End time: 3710.54
+Speaker: SPEAKER_02
+Transcript: Just bring in.
+
+Segment 972:
+Start time: 3711.60
+End time: 3713.34
+Speaker: SPEAKER_02
+Transcript:  All these topics are in scope.
+
+Segment 973:
+Start time: 3713.34
+End time: 3713.88
+Speaker: SPEAKER_02
+Transcript: Don't be shy.
+
+Segment 974:
+Start time: 3713.88
+End time: 3717.77
+Speaker: SPEAKER_02
+Transcript: Just show up and, you know, bring your perspective on this stuff.
+
+Segment 975:
+Start time: 3717.77
+End time: 3718.55
+Speaker: SPEAKER_02
+Transcript: I'm here to help you.
+
+Segment 976:
+Start time: 3718.55
+End time: 3721.80
+Speaker: SPEAKER_02
+Transcript: I'm here to push my vision forward and then, you know, expand what I know too.
+
+Segment 977:
+Start time: 3721.80
+End time: 3723.86
+Speaker: SPEAKER_02
+Transcript: So there's that too.
+
+Segment 978:
+Start time: 3723.86
+End time: 3724.54
+Speaker: SPEAKER_02
+Transcript: So we've got that.
+
+Segment 979:
+Start time: 3728.68
+End time: 3735.15
+Speaker: SPEAKER_02
+Transcript:  There's our.gg, our like a minute hour, our community service hour.
+
+Segment 980:
+Start time: 3735.15
+End time: 3735.69
+Speaker: SPEAKER_02
+Transcript: So our.gg.
+
+Segment 981:
+Start time: 3735.69
+End time: 3736.01
+Speaker: SPEAKER_02
+Transcript: And yeah.
+
+Segment 982:
+Start time: 3736.01
+End time: 3737.22
+Speaker: SPEAKER_02
+Transcript: Be in touch.
+
+Segment 983:
+Start time: 3738.97
+End time: 3739.36
+Speaker: SPEAKER_00
+Transcript:  All right.
+
+Segment 984:
+Start time: 3740.76
+End time: 3741.32
+Speaker: SPEAKER_00
+Transcript:  Yeah.
+
+Segment 985:
+Start time: 3741.32
+End time: 3744.03
+Speaker: SPEAKER_00
+Transcript: Just don't forget to check, check them out.
+
+Segment 986:
+Start time: 3744.03
+End time: 3746.69
+Speaker: SPEAKER_00
+Transcript: We will also leave in the description.
+
+Segment 987:
+Start time: 3746.69
+End time: 3748.46
+Speaker: SPEAKER_00
+Transcript: Also, like we'll tweet about them as well.
+
+Segment 988:
+Start time: 3750.54
+End time: 3751.12
+Speaker: SPEAKER_00
+Transcript:  Yeah.
+
+Segment 989:
+Start time: 3751.12
+End time: 3752.32
+Speaker: SPEAKER_00
+Transcript: And all right.
+
+Segment 990:
+Start time: 3752.32
+End time: 3754.03
+Speaker: SPEAKER_00
+Transcript: So wrap it up.
+
+Segment 991:
+Start time: 3754.03
+End time: 3756.85
+Speaker: SPEAKER_00
+Transcript: Our guest today has been William Intricate.
+
+Segment 992:
+Start time: 3756.85
+End time: 3762.54
+Speaker: SPEAKER_00
+Transcript: And well, thanks for being part of the craft and really appreciate it and learn a lot from you.
+
+Segment 993:
+Start time: 3763.80
+End time: 3781.32
+Speaker: SPEAKER_00
+Transcript:  And also for those of you who are listening and thank you for listening to the craft podcast and for more links and information about this episode or to listen to more episodes, you can search for the craft podcast by Dennis Desco and Michael Dew on YouTube or anywhere you get your podcast.
+
+Segment 994:
+Start time: 3782.16
+End time: 3783.53
+Speaker: SPEAKER_00
+Transcript:  And see you next time.
+
+Segment 995:
+Start time: 3783.53
+End time: 3784.54
+Speaker: SPEAKER_00
+Transcript: And until then, keep crafting.
+

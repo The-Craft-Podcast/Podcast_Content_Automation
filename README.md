@@ -27,3 +27,5 @@ Refer to Audio_Transcript Folder (current code is a little sloppy, will be impro
 - After running the code and get your transcript, you still need to replace the speaker label with thier real names or any names you customized. This can be done with `speaker_correction.py` where you will be prompted to enter the speaker mappings in a `dict` and the script will do the job for you and save the corrected transcript to the output path you defined. 
 
 ## Part II: Working with LLMs and LangChain
+
+For the sake of easiness, using a third party framework here would be a quick solution for us now to deal with long texts and complicated tasks and to build out a MVP of this automation tool.

@@ -1,0 +1,152 @@
+clean-transcript:
+  refine-template: |
+    As inputs, you receive one piece of a messy transcript and a cleaned transcript of what immediately preceded it. You respond with a cleaned up version of the piece of the messy transcript, followed by any notes or comments you would like to make about the process.
+    You always follow these guidelines:
+    - Precisely maintain the original format of the transcript. Do not adjust the format at all.
+    - Remove filler words like 'uh' and 'um'.
+    - Delete repeated words and stammering.
+    - Do not make things up or deviate from the transcript at all.
+    - If you encounter a word that you are not sure how to spell or don't understand, please use your best judgement and make a note of this issue at the end.
+summarize-transcript:
+  mapreduce-template: |
+    You receive a piece of a long transcript and respond with a {targetWordcount}-word summary. You always follow these guidelines:
+    - Include vivid detail, especially mentions of specific people, places, schools of thought, books, movies, software, websites, etc.
+    - Retain quotable quips from speakers.
+    - Do not make things up or deviate from the transcript.
+    - Make the content concise, clear, and easy to read.
+    - If the speakers repeat themselves or are being longwinded and verbose, cut out the repetition and verbosity.
+    - If the speakers are being unclear, do your best to make sense of what they are saying. Keep in mind that you are getting one piece of a long transcript, so you may not have the full context.
+  combination-template: |
+    You receive summarized pieces of a long transcript and combine them into a {targetWordcount}-word summary. You always follow these guidelines:
+    - The final summary smoothly brings together each of the summarized pieces into a smooth and coherent whole.
+    - Include vivid detail, especially mentions of specific people, places, schools of thought, books, movies, software, websites, etc.
+    - Retain quotable quips from speakers.
+    - Do not make things up or deviate from the summarized pieces.
+    - Make the content concise, clear, and easy to read.
+    - If part of the summary is unclear or confusing, do your best to make sense of what is being said. Keep in mind that you are getting summarized pieces of a long transcript, and each piece may not have the full context.
+blog-article:
+  mapreduce-template: |
+    You receive long transcripts and respond with high-quality magazine-style articles about the content. You will do this in pieces, so please take into account this summary of the entire interview:
+    {summary}
+
+    You always follow these guidelines:
+    - Be creative--do not just regurgitate the summary. Your job is to write interesting content about the interview that will be read by millions of people around the globe.
+    - The article should be in a similar style of a great article in a famous magazine (e.g. The New Yorker, Vogue, or Rolling Stone).
+  combination-template: |
+    You are a creative and professional editor who pieces together disparate parts of a magazine article into a coherent and beautiful final article for publication.
+
+    You will be given a list of articles that are written by different writers, and your job is to combine these articles into a final article that is coherent and beautiful.
+
+    You always follow these guidelines:
+    - Be creative--do not just regurgitate the articles. Your job is to mold these pieces into interesting content that will be read by millions of people around the globe.
+    - Feel free to add to, remove, or totally replace any parts of the articles if you think it will make the final article better.
+    - The article should be in a similar style of a great article in a famous magazine (e.g. The New Yorker, Vogue, or Rolling Stone).
+    - Proofread this article, and revise and polish with better writing style and grammar.
+youtube-title-description:
+  mapreduce-template: |
+    You recieve a peice of a long transcript and respond with a summary. This piece of summary will be combined with many other summaries into a final summary.
+  combination-template: |
+    You receive summarized pieces of a long transcript and combine them into a final summary. This summary should be written as the YouTube video posting description. Please also come up with 3 catchy title for this transcript.
+social-media-posts:
+  mapreduce-template:
+  combination-template:
+    Please write out 3 versions of social media posts
+json-transcript:
+  name: function_name
+  description: "Process raw transcript into a desired format, taking into account any corrections"
+  parameters:
+    type: object
+    properties:
+      transcript:
+        type: array
+        items:
+          estimated-timestamp:
+            type: string
+            description: "The estimated timestamp of the accompanying text. NEVER enclose in quotes. Format as MM:SS or HH:MM:SS. Format example: 00:00:00"
+          speaker:
+            type: string
+            description: "The name of the speaker. NEVER enclose in quotes. Format example: Lex"
+          text:
+            type: string
+            description: "What the speaker said. Try to remove filler words like 'uh' and 'um'. Delete repeated words and stammering. This is a transcript, not a summary--so do not deviate from the original phrasings. NEVER enclose in quotes. Format example: 'Hello, world!'"
+    description: "Array of transcript objects that cover the entire conversation. Each object has a 'speaker' string, an 'estimated-timestamp' string, and a 'text' string."
+  required:
+    - transcript
+json-artifacts:
+  name: function_name
+  description: "Process piece of a transcript into key concepts, things mentioned, such as schools of thought, books, movies, people, places, software, webistes, etc., and quoteable quotes from speakers."
+  parameters:
+    type: object
+    properties:
+      notes:
+        type: array
+        items:
+          item:
+            type: string
+            description: "A key concept, thing mentioned, such as schools of thought, books, movies, people, places, software, webistes, etc. NEVER enclose in quotes. Format example: Pablo Picasso"
+          estimated-timestamp:
+            type: string
+            description: "The estimated timestamp of first mention of the item. NEVER enclose in quotes. Format as MM:SS or HH:MM:SS. Format example: 00:00:00"
+      quotes:
+        type: array
+        items:
+          item:
+            type: string
+            description: "A quote from a speaker. NEVER enclose in quotes. Format example: Any intelligent fool can make things bigger and more complex. It takes a touch of genius - and a lot of courage - to move in the opposite direction."
+          speaker:
+            type: string
+            description: "The name of the speaker responsible for the quote. NEVER enclose in quotes. Format example: Albert Einstein"
+          estimated-timestamp:
+            type: string
+            description: "The estimated timestamp of the quote. NEVER enclose in quotes. Format as MM:SS or HH:MM:SS. Format example: 00:00:00"
+    description: "Array of arrays of notes and quotes. Each quote has an 'item' string, an 'estimated-timestamp' string, and a 'speaker' string."
+  required:
+    - notes
+    - quotes
+json-highlights:
+  name: function_name
+  description: "Process a summary into desired formats, taking into account any corrections"
+  parameters:
+    type: object
+    properties:
+      title:
+        type: string
+        description: "A string that contains a unique and interesting title for the content. Format example: Title of super cool episode"
+      description:
+        type: string
+        description: "A string that contains an intriguing, two tweet-long description of the content suitable for a YouTube description and podcast RSS feed."
+      chapters:
+        type: array
+        items:
+          type: object
+          properties:
+            timestamp:
+              type: string
+              description: "A string containing the timestamp of the chapter. Format as MM:SS or HH:MM:SS. Format example: 00:00:00"
+            title:
+              type: string
+              description: "Title for the chapter. Format example: This is a title"
+          required:
+            - timestamp
+            - title
+        description: "Array of chatper objects. Each object has 'timestamp' and 'title' strings. Timestamps are in the format of 00:00:00. Generate 5-10 chapters based on the transcript."
+      tweet-thread:
+        type: array
+        items:
+          type: object
+          properties:
+            "tweet draft":
+              type: string
+              description: "A wrap-up tweet for the episode either summarizing what was covered, asking an intriguing question relevant to the episode, sharing a hot take, asking for feedback, sharing a link, or a combination of these. Keep it exciting and engaging."
+          required:
+            - tweet
+        description: "Array of drafts for a wrap-up tweet thread. The total array of tweets should cover the key and most interesting things covered in the content. Use the quotes and notes to generate these tweets. Optimize for engagement on Twitter."
+      linkedin-post:
+        type: string
+        description: "A wrap-up LinkedIn post for the episode either summarizing what was covered, asking an intriguing question relevant to the episode, sharing a hot take, asking for feedback, sharing a link, or a combination of these. Keep it exciting and engaging. These can be a bit longer than individual tweets and mention multiple topics, as long as it's done so in an organized fashion. Optimize for engagement on LinkedIn."
+    required: 
+      - title
+      - description
+      - chapters
+      - tweet-thread
+      - linkedin-post

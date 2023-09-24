@@ -13,6 +13,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 import json
 
+# rewrite into a class
 # Download Video Through YouTube
 def download_youtube_video(url: str, output_path: Optional[str] = None) -> None:
     yt = YouTube(url)

@@ -1,6 +1,7 @@
 # Python Virutal Environment
 .venv/
 3.10_venv/
+venv_streamlit/
 
 # Hidden files
 .DS_Store

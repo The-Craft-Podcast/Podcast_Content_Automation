@@ -14,4 +14,3 @@ def init_vectordb(transcript_path, chunk_size, chunk_overlap):
     vectordb = FAISS.from_documents(docs, embeddings)
 
     return vectordb
-    

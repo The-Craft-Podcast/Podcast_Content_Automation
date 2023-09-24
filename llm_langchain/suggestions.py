@@ -17,8 +17,10 @@ from langchain.prompts.chat import (
     HumanMessagePromptTemplate
 )
 
+from llm_langchain import summarizations
+
 class EditingSuggestion:
     '''
     Provide edit suggestions based on user input podcast transcript, provide start/end timestamps for each clip with a summary and explanation of that cut, split the transcript with the given start/end timestamp and save it somewhere for later use
     '''
-    
+    # Inherit from Summarization class??? Figure out the relationship here

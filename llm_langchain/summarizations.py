@@ -44,20 +44,18 @@ class Summarization:
                   model_name="gpt-4",
                   request_timeout = 180
                  )
-    
     # embeddings = OpenAIEmbeddings(openai_api_key=os.getenv('OPENAI_API_KEY'))
-
     # Here using a fixed template for now, but can add dynamics templates with user-instructions inputs then combine both to better fit user needs
-    def __init__(self, vectordb, chunk_size, chunk_overlap, transcript_path = None, transcript_variable = None, prompt_book_path = "./prompts.yml"): # Change the prompt_book_path to pkg.filename after packaging?
-        if transcript_path is None and transcript_variable is None:
+    def __init__(self, vectordb, chunk_size, chunk_overlap, transcript_path = None, transcript_string = None, prompt_book_path = "./prompts.yml"): # Change the prompt_book_path to pkg.filename after packaging?
+        if transcript_path is None and transcript_string is None:
             raise ValueError("At least one transcript input must be provided")
         
         self.transcript = None
         if transcript_path:
             with open(transcript_path) as f:
                 self.transcript = f.read()
-        elif transcript_variable:
-            self.transcript = transcript_variable
+        elif transcript_string:
+            self.transcript = transcript_string
         
         with open(prompt_book_path, 'r') as file:
             self.prompt_book = yaml.safe_load(file)
@@ -89,42 +87,13 @@ class Summarization:
         print(f"The transcript has been chuncked into {len(self.docs)} portions")
         # Templates setup
         # This template now is only for podcast interviews which is very limited, need to update it into a more scalable one for different contents
-        map_template = """
-        You are a helpful assistant that are very good at summarizing a long podcast interview into a blog post style article based on the interview transcript.
-        You are given a podcast transcript that contains the conversations of podcast interview with speaker names, timestamps etc.
-        Your goal is to summarize a podcast interview into a blog post article with clear topics and highlights of conversations between the hosts and guest during the interview.
-        The summarized article should follow a fun, engaging, and educational style that is easy to read and understand.
-        The summarized article also has to be well-structured with a concise intro, body, and conclusion and easy to read. The article should be in a similar style of a great article in a famous magazine (e.g. The New Yorker).
-        Here is an exmaple of the structure of the summarized article (You do not need to follow this if you have a better idea of how to write a better article):
-            - Title: e.g. "The Evolution of AI Technology and How to Navigate it" (come up with a great title for that can best represent the interview)
-            - Intro: introduce what the interview is about and what the interviewers are talking about.
-            - Body: describe the topics and highlights of the interview and quotes from the interview if necessary.
-            - Conclusion: conclude the interview that can make readers feel inspired
-        Here are some rules you need to follow:
-        - Do not mention anything that is not coherent with the interview.
-        - Be creative, do not just repeat what were said in the interview. Your goal is to summarize the article that can attract thousands of readers to read and learn from it.
-        - Do not use any inappropriate words.
-        - Do not use any offensive language.
-        - Do not use any profane words.
-        - Do not write out "Intro", "Body", and "Conclusion" in the article, The example above is just to instruct you to implicitly follow this structure. Write the article as natrually as you can. 
-        - Be sure to include all the key and important topcis in the transcript.
-        Remember:
-        The summarized article should have a proper length, not too long or too short. Use your common sense and refer to the article length that usually posted on blogging platform such as Medium or Substack.
-        """
+        map_template = self.prompt_book['summarize-article']['mapreduce-template']
         system_message_map_template = SystemMessagePromptTemplate.from_template(map_template)
         human_template = "Transcript: {text}"
         human_message_template  = HumanMessagePromptTemplate.from_template(human_template)
         map_prompt_template = ChatPromptTemplate.from_messages(messages=[system_message_map_template, human_message_template])
 
-        combined_template = """
-        You are a creative and professional journalist that are very talented at writing. You are very good at summarizing interviews transcript into a fruitful article for readers.
-        - You will be given a summarized article of a podcast interview, and the article should be having a structure from intro -> body -> conclusion.
-        - Please come up with a catchy title for the article and add it at the beginning of the article.
-        - Proof read this article, and revise and polish with better writing style and grammars.
-        - Make the article shorter and concise if needed. 
-        - Remove dupicate or unnecessary sentences, components or elements in the article if you found any.
-        The resulting article after your revision should be like an article that can be published on famous magazine such as Time or The New York, that best summarize the content of the podcast interview and attract readers.
-        """
+        combined_template = self.prompt_book['summarize-article']['combination-template']
         system_message_combined_template = SystemMessagePromptTemplate.from_template(combined_template)
         combined_prompt_template = ChatPromptTemplate.from_messages(messages=[system_message_combined_template, human_message_template])
 
@@ -139,40 +108,13 @@ class Summarization:
         # Portions of transcript divided
         print(f"The transcript has been chuncked into {len(self.docs)} portions")
         # Templates setup
-        map_template = """
-        You are a helpful assistant that are very good at summarizing podcast interview transcripts and organize the key information from the interview.
-        You are given a podcast interview transcript that contains the conversation between the hosts and guest during the interview.
-        You goal is to, based on your experience and knowledge, extract key topics discussed in the interview, write a short description for each topic, and include the start and end timestamps that covers the period of conversations you summarized for that topic.
-        
-        You can refer to the format example below (Note: This is just an example to demonstrate the format, you can ignore the content. The start and end timestamps might be in different formats for different transcript, you should follow what presented in the transcript):
-        - NFT Business Model: John and Dan discussed he business ideas and models behind NFT, and the future of how NFT can be utilized for creating more values for... | Start Time: 0.00 End Time: 402.21
-        - Building Open Source Community: Mike talked about his experience with contributing part time on multiple famous open source projects such as... | Start Time: 402.21 End Time: 653.72
-        ...
-
-        Here are some of the things that do not do:
-        - Do not mention anything that is not coherent with the interview.
-        - Do not extract any topics or create any topics that are not in the transcript.
-        - Do not use any inappropriate words.
-        - Do not create any duplicate topics.
-        Please strictly follow the instruction and format example I provided to you. Please be descriptive and concise and list out all of the topics with bullet points in the format I showed you.
-        """
+        map_template = self.prompt_book['summarize-topics']['mapreduce-template']
         system_message_map_template = SystemMessagePromptTemplate.from_template(map_template)
         human_template = "Transcript: {text}"
         human_message_template  = HumanMessagePromptTemplate.from_template(human_template)
         map_prompt_template = ChatPromptTemplate.from_messages(messages=[system_message_map_template, human_message_template])
 
-        combined_template = """
-        You are a helpful assistant that are very good at summarizing podcast interview transcripts and extract key topics from the interview.
-        - You will be given a list of topics and descriptions of the topics with timestamps that you extracted from the interview.
-        - Your goal is to concisely extract the key topics discussed in the interview transcript, and write a short description for each topci you extract, and also include the start and end timestapms that covers the period of conversations you summarized for that topic.
-        - Deduplicate any topics that you see.
-        - Only extract topics from the interview transcript. Do not use the examples.
-
-        The example topic extraction output is as following:
-        - NFT Business Model: John and Dan discussed he business ideas and models behind NFT, and the future of how NFT can be utilized for creating more values for... | Start Time: 0.00 End Time: 402.21
-        - Building Open Source Community: Mike talked about his experience with contributing part time on multiple famous open source projects such as... | Start Time: 402.21 End Time: 653.72
-        ...
-        """
+        combined_template = self.prompt_book['summarize-topics']['combination-template']
         system_message_combined_template = SystemMessagePromptTemplate.from_template(combined_template)
         combined_prompt_template = ChatPromptTemplate.from_messages(messages=[system_message_combined_template, human_message_template])
 

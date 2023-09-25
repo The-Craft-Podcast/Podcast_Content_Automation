@@ -30,7 +30,7 @@ import yaml
 
 class Summarization:
     '''
-    Summarization tasks for user input podcast content
+    Summarization tasks for user input podcast content with LangChain. Use this class when user input token size out of model limit
     '''
     # Define LLMs
     llm3 = ChatOpenAI(temperature=0,
@@ -67,6 +67,8 @@ class Summarization:
         # Docs Embedding into vectorstore
         self.vector_db = vectordb
         # self.vector_db = FAISS.from_documents(self.docs, self.embeddings) # Remember to keep proper chunks for token limitation
+        self.topics_structured = []
+        self.expanded_topics_sum = ""
 
     def save_to_file(self, content, output_path: str, output_file_name: str):
         file_path = os.path.join(output_path, output_file_name)
@@ -137,11 +139,11 @@ class Summarization:
             "required": ["topic_name", "detail"],
         }
         chain = create_extraction_chain(function_call_schema, self.llm3)
-        topics_structured = chain.run(summarized_topics)
+        self.topics_structured = chain.run(summarized_topics)
 
-        return topics_structured
+        return self.topics_structured
 
-    def get_chapters(self, structured_topcis):
+    def get_chapters_from_topics(self):
         system_template = """
         What is the first timestamp when the speakers started talking about a topic the user gives?
         Only respond with the timestamp, nothing else. Example: 0:18:24 or 300.18 (the timestamp format might differ so use your judgement to take out the timestamp)
@@ -157,7 +159,7 @@ class Summarization:
         
         # Constructing chapters
         topic_timestamps = []
-        for topic in structured_topcis:
+        for topic in self.topics_structured:
             timestamp = qa.run(f"{topic['topic_name']} - {topic['detail']}")
             topic_timestamps.append(f"{timestamp} - {topic['topic_name']}")
 
@@ -168,9 +170,31 @@ class Summarization:
 
         return sorted_timestamps
     
+    def expanded_topics(self):
+        system_template = """
+        You will be given text from a podcast transcript which contains many topics.
+        You goal is to write a summary (5 sentences or less) about a topic the user chooses
+        Do not respond with information that isn't relevant to the topic that the user gives you
+        ----------------
+        {context}"""
+
+        messages = [
+            SystemMessagePromptTemplate.from_template(system_template),
+            HumanMessagePromptTemplate.from_template("{question}"),
+        ]
+        CHAT_PROMPT = ChatPromptTemplate.from_messages(messages)
+        qa = RetrievalQA.from_chain_type(llm=self.llm3, chain_type="stuff", retriever=self.vector_db.as_retriever(k=4),chain_type_kwargs = {'prompt': CHAT_PROMPT})
+
+        for topic in self.topics_structured:
+            query = f"""
+                {topic['topic_name']}: {topic['detail']}
+            """
+            expanded_topic = qa.run(query)
+            self.expanded_topics_sum += f"\n{topic['topic_name']}: {topic['detail']}\n" + f"{expanded_topic}\n"
+        
+        return self.expanded_topics_sum
+
     def youtube_title_description(self):
-        # Show portions of transcript divided
-        print(f"The transcript has been chuncked into {len(self.docs)} portions")
         # Templates setup
         # This template now is only for podcast interviews which is very limited, need to update it into a more scalable one for different contents
         map_template = self.prompt_book['youtube-title-description']['mapreduce-template']
@@ -212,22 +236,22 @@ class Summarization:
 # Functions
 
 
-if __name__ == '__main__':
-    # Define inputs
-    transcript_path = "../Transcripts/output_William_corrected.txt"
-    chunk_size = 10000
-    chunk_overlap = 2000
-    file_output_path = "../Transcripts/"
-    article_file_name = "William_sumamrized_article.txt"
-    topics_file_name = "William_summarized_topics.txt"
-    # Summarize
-    sum = Summarization(transcript_path, chunk_size, chunk_overlap)
-    article = sum.summarize_article()
-    # topics = sum.summaraize_topics()
-    # Save the summarized article into a text file
-    sum_article = sum.save_to_file(article, file_output_path, article_file_name)
-    # sum_topics = sum.save_to_file(topics, file_output_path, topics_file_name)
-    sum.show_result(article)
+# if __name__ == '__main__':
+#     # Define inputs
+#     transcript_path = "../Transcripts/output_William_corrected.txt"
+#     chunk_size = 10000
+#     chunk_overlap = 2000
+#     file_output_path = "../Transcripts/"
+#     article_file_name = "William_sumamrized_article.txt"
+#     topics_file_name = "William_summarized_topics.txt"
+#     # Summarize
+#     sum = Summarization(transcript_path, chunk_size, chunk_overlap)
+#     article = sum.summarize_article()
+#     # topics = sum.summaraize_topics()
+#     # Save the summarized article into a text file
+#     sum_article = sum.save_to_file(article, file_output_path, article_file_name)
+#     # sum_topics = sum.save_to_file(topics, file_output_path, topics_file_name)
+#     sum.show_result(article)
 
 
 

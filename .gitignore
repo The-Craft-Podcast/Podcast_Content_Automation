@@ -15,3 +15,10 @@ transcription_temp.json
 
 # Test scripts
 test.py
+
+# pycache
+__pycache__/
+
+# Streamlit Related
+pages/
+summarize_your_files.py

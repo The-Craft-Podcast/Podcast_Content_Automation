@@ -20,5 +20,5 @@ test.py
 __pycache__/
 
 # Streamlit Related
-pages/
-summarize_your_files.py
+# pages/
+# summarize_your_files.py

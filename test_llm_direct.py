@@ -106,19 +106,42 @@ def create_api_call_message(messages, function_name = None, functions = None, te
             )
             response_message = response["choices"][0]["message"]
             function_args = json.loads(response_message["function_call"]["arguments"])
-            response_content = response["choices"][0]["message"]["content"] # This likely will to be Null
-            return response_message, function_args
+            # response_content = response["choices"][0]["message"]["content"] # This likely will to be Null
+            # return response_message, function_args
+            return function_args
         except Exception as exception:
             return exception.args
     else:
         return "API Call Condition Not Met"
 
-response, topic_struct = create_api_call_message(messages=messages_topics, function_name=function_name, functions=functions)
+# response, topic_struct = create_api_call_message(messages=messages_topics, function_name=function_name, functions=functions)
+response = create_api_call_message(messages=messages_topics, function_name=function_name, functions=functions)
 
 # print(topic)
-print(topic_struct.get("topic_pairs"))
+# print(topic_struct.get("topic_pairs"))
 print(response)
 
 # Notes:
 ## The expect2 but got 1 error is because when the function calling failed, the function only output the error message, so there won't be two outputs: response, func_args instead, the error message
 ## The message["content"] could be NULL if using function calling, so it won't return anything, so better just to return function_arg (response from function calling)
+
+## Got an error about youtube_transcript_api. Seem it's missing from requirements.txt?
+# @dtedesco1 ➜ /workspaces/Podcast_Content_Automation (main) $ /home/codespace/.python/current/bin/python3 /workspaces/Podcast_Content_Automation/test_llm_direct.py
+# Traceback (most recent call last):
+#   File "/workspaces/Podcast_Content_Automation/test_llm_direct.py", line 3, in <module>
+#     from youtube_transcript.functions import get_youtube_transcript
+#   File "/workspaces/Podcast_Content_Automation/youtube_transcript/functions.py", line 2, in <module>
+#     from youtube_transcript_api import YouTubeTranscriptApi
+# ModuleNotFoundError: No module named 'youtube_transcript_api'
+# @dtedesco1 ➜ /workspaces/Podcast_Content_Automation (main) $ pip install youtube_transcript_api
+# Collecting youtube_transcript_api
+#   Obtaining dependency information for youtube_transcript_api from https://files.pythonhosted.org/packages/33/c1/18e32c7cd693802056f385c3ee78825102566be94a811b6556f17783c743/youtube_transcript_api-0.6.1-py3-none-any.whl.metadata
+#   Downloading youtube_transcript_api-0.6.1-py3-none-any.whl.metadata (14 kB)
+# Requirement already satisfied: requests in /home/codespace/.local/lib/python3.10/site-packages (from youtube_transcript_api) (2.31.0)
+# Requirement already satisfied: charset-normalizer<4,>=2 in /home/codespace/.local/lib/python3.10/site-packages (from requests->youtube_transcript_api) (3.2.0)
+# Requirement already satisfied: idna<4,>=2.5 in /home/codespace/.local/lib/python3.10/site-packages (from requests->youtube_transcript_api) (3.4)
+# Requirement already satisfied: urllib3<3,>=1.21.1 in /home/codespace/.local/lib/python3.10/site-packages (from requests->youtube_transcript_api) (2.0.4)
+# Requirement already satisfied: certifi>=2017.4.17 in /home/codespace/.local/lib/python3.10/site-packages (from requests->youtube_transcript_api) (2023.7.22)
+# Downloading youtube_transcript_api-0.6.1-py3-none-any.whl (24 kB)
+# Installing collected packages: youtube_transcript_api
+

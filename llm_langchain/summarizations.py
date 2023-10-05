@@ -236,23 +236,19 @@ class Summarization:
 # Functions
 
 
-# if __name__ == '__main__':
-#     # Define inputs
-#     transcript_path = "../Transcripts/output_William_corrected.txt"
-#     chunk_size = 10000
-#     chunk_overlap = 2000
-#     file_output_path = "../Transcripts/"
-#     article_file_name = "William_sumamrized_article.txt"
-#     topics_file_name = "William_summarized_topics.txt"
-#     # Summarize
-#     sum = Summarization(transcript_path, chunk_size, chunk_overlap)
-#     article = sum.summarize_article()
-#     # topics = sum.summaraize_topics()
-#     # Save the summarized article into a text file
-#     sum_article = sum.save_to_file(article, file_output_path, article_file_name)
-#     # sum_topics = sum.save_to_file(topics, file_output_path, topics_file_name)
-#     sum.show_result(article)
-
-
-
-
+if __name__ == '__main__':
+    # Define inputs
+    will_transcript_path = "../Transcripts/output_William_corrected.txt"
+    chunk_size = 10000
+    chunk_overlap = 2000
+    file_output_path = "../Transcripts/"
+    article_file_name = "William_sumamrized_article.txt"
+    topics_file_name = "William_summarized_topics.txt"
+    # Summarize
+    sum = Summarization(transcript_path=will_transcript_path, chunk_size=chunk_size, chunk_overlap=chunk_overlap)
+    article = sum.summarize_article()
+    # topics = sum.summaraize_topics()
+    # Save the summarized article into a text file
+    sum_article = sum.save_to_file(article, file_output_path, article_file_name)
+    # sum_topics = sum.save_to_file(topics, file_output_path, topics_file_name)
+    sum.show_result(article)
